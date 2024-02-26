@@ -12,7 +12,7 @@ https://openalex.org/A5055710645,Jon Kleinberg,https://orcid.org/0000-0002-1929-
 https://openalex.org/A5018665643,Kleinberg Jon,None,2,Cornell University, USA
 https://openalex.org/A5056247832,Chloe Ahn,https://orcid.org/0000-0003-1390-5215,4,University of Pennsylvania, USA
 https://openalex.org/A5061968391,Chloe Ahn,None,1,University of Pennsylvania, USA
-https://openalex.org/A5040523461,Xinyi Wang,https://orcid.org/0000-0002-4837-797X,1772,Shanghai Academy of Agricultural Sciences, China
+https://openalex.org/A5040523461,Xinyi Wang,https://orcid.org/0000-0002-4837-797X,1772,Yanshan University, China
 https://openalex.org/A5084233540,Xin‐Yi Wang,https://orcid.org/0000-0002-9256-1862,141,Collaborative Innovation Center of Advanced Microstructures, China
 https://openalex.org/A5087152540,Xianqu Wang,https://orcid.org/0000-0001-8485-895X,85,Southwest Jiaotong University, China
 https://openalex.org/A5062562098,Xinyi Wang,https://orcid.org/0000-0002-4010-7895,77,Wuhan Ship Development & Design Institute, China
@@ -167,9 +167,9 @@ https://openalex.org/A5000679279,Duncan J. Watts,https://orcid.org/0000-0001-500
 https://openalex.org/A5018696141,Duncan J. Watts,https://orcid.org/0000-0002-5437-6121,97,Brigham Young University, USA
 https://openalex.org/A5076627125,Duncan Watts,None,21,University of Edinburgh, UK
 https://openalex.org/A5006928653,D D Watts,None,4,Dunedin Public Hospital, New Zealand
-https://openalex.org/A5066716873,Li Zhang,https://orcid.org/0000-0002-9386-8938,31979,Nanyang Technological University, Singapore
+https://openalex.org/A5066716873,Li Zhang,https://orcid.org/0000-0002-9386-8938,31979,Taihe Hospital, China
 https://openalex.org/A5063496433,Zhang Li,https://orcid.org/0000-0001-9242-0763,9929,Hunan University of Traditional Chinese Medicine, China
-https://openalex.org/A5056450584,Hua Zhang,https://orcid.org/0000-0001-9518-740X,7726,Qingdao Municipal Center for Disease Control and Prevention, China
+https://openalex.org/A5056450584,Hua Zhang,https://orcid.org/0000-0001-9518-740X,7726,Chongqing University, China
 https://openalex.org/A5090606294,Lili Zhang,https://orcid.org/0000-0002-4773-5157,3946,Shandong Academy of Sciences, China
 https://openalex.org/A5054228072,Xiaoli Zhang,https://orcid.org/0000-0001-8412-4956,3198,West China Second University Hospital of Sichuan University, China
 https://openalex.org/A5059602238,Jianxin Zhang,https://orcid.org/0000-0003-1629-048X,1742,Nanjing University, China
@@ -179,7 +179,7 @@ https://openalex.org/A5062416906,Hongli Zhang,https://orcid.org/0000-0002-9803-1
 https://openalex.org/A5016841529,Xiuli Zhang,https://orcid.org/0000-0003-1374-5100,1303,Xiamen University, China
 https://openalex.org/A5049690420,Isabelle Lorge,https://orcid.org/0000-0001-9008-9536,8,University of Oxford, UK
 https://openalex.org/A5059203487,Xiaoli Dong,https://orcid.org/0000-0002-3267-7548,368,Dalian Polytechnic University, China
-https://openalex.org/A5026662607,Xiaowen Dong,https://orcid.org/0009-0003-1016-4789,235,Shanghai Electric (China), China
+https://openalex.org/A5026662607,Xiaowen Dong,https://orcid.org/0009-0003-1016-4789,235,Huawei Technologies (China), China
 https://openalex.org/A5060771376,Xuan Dong,https://orcid.org/0009-0004-2230-1880,105,Shenyang Agricultural University, China
 https://openalex.org/A5063088396,Xiaowen Dong,None,26,Beijing University of Posts and Telecommunications, China
 https://openalex.org/A5035104495,Xiaowen Dong,None,3,Weifang University of Science and Technology, China
@@ -210,7 +210,7 @@ https://openalex.org/A5066389630,Josep Maria Mata Perelló,None,823,Universitat 
 https://openalex.org/A5093039163,Josep Perelló,https://orcid.org/0000-0001-8533-6539,198,Universitat de Barcelona, Spain
 https://openalex.org/A5093039162,Josep Perelló,None,16,Hospital de Sant Pau, Spain
 https://openalex.org/A5054099264,Josep Perelló Palou,None,12,None
-https://openalex.org/A5063929752,Josep Perelló-Capo,None,6,Hospital de Sant Pau, Spain
+https://openalex.org/A5063929752,Josep Perelló-Capó,None,6,Hospital de Sant Pau, Spain
 https://openalex.org/A5045559983,Josep Perelló Capó,https://orcid.org/0000-0001-9914-9312,6,Hospital de Sant Pau, Spain
 https://openalex.org/A5051117189,Josep Perelló Mulet,None,3,None
 https://openalex.org/A5057763163,Josep Perelló Margalef,None,2,None
@@ -222,8 +222,9 @@ https://openalex.org/A5002901620,Elisa Omodei,https://orcid.org/0000-0002-6748-5
 https://openalex.org/A5082912147,Jamell Dacon,https://orcid.org/0000-0002-6917-6835,12,Michigan United, USA
 https://openalex.org/A5040639891,Jiliang Tang,https://orcid.org/0000-0001-7125-3898,420,Michigan State University, USA
 https://openalex.org/A5055620251,Ji‐Liang Tang,https://orcid.org/0000-0002-0891-1226,104,Guangxi University, China
-https://openalex.org/A5014906789,Jessica Tang,None,52,Shenzhen Bay Laboratory, China
+https://openalex.org/A5014906789,Jessica Tang,https://orcid.org/0009-0007-8771-4143,52,Shenzhen Bay Laboratory, China
 https://openalex.org/A5049864424,Ji‐Liang Tang,None,29,Guangxi University, China
+https://openalex.org/A5093975991,Jiliang Tang,None,0,None
 https://openalex.org/A5023349445,Minsu Park,https://orcid.org/0000-0003-0759-8888,492,Dankook University, Korea, Republic of
 https://openalex.org/A5002590449,Minsu Park,https://orcid.org/0000-0002-0624-5215,8,Chungnam National University, Korea, Republic of
 https://openalex.org/A5007866722,Minsu Park,None,5,None
@@ -236,7 +237,7 @@ https://openalex.org/A5016375125,Min-Su Park,https://orcid.org/0000-0001-9846-90
 https://openalex.org/A5017651510,MinSu Park,None,1,None
 https://openalex.org/A5005278108,Y. Chào,https://orcid.org/0000-0002-6931-0440,2114,National Taiwan University, Taiwan, Province of China
 https://openalex.org/A5011500179,Chongxiu Yu,https://orcid.org/0000-0003-2553-1281,1231,Hunan University of Science and Technology, China
-https://openalex.org/A5085966575,Cheng Luo,https://orcid.org/0000-0003-2423-7339,1077,Nanchang University, China
+https://openalex.org/A5085966575,Cheng Luo,https://orcid.org/0000-0003-2423-7339,1077,West China Hospital of Sichuan University, China
 https://openalex.org/A5046330720,Cheng Yan,https://orcid.org/0000-0002-7567-0522,976,China University of Petroleum, East China, China
 https://openalex.org/A5051120464,Pu Chen,https://orcid.org/0009-0007-5534-8986,900,Union Hospital, China
 https://openalex.org/A5083940474,Yu Shen,https://orcid.org/0000-0001-6218-3234,884,University of California, Los Angeles, USA
@@ -323,7 +324,7 @@ https://openalex.org/A5020203744,Tian Wen,https://orcid.org/0000-0003-0087-1749,
 https://openalex.org/A5034108413,Ting Liang,https://orcid.org/0000-0002-3116-365X,370,University of Science and Technology of China, China
 https://openalex.org/A5086146868,Tiejun Zhu,https://orcid.org/0000-0002-3868-0633,318,Zhejiang University, China
 https://openalex.org/A5025292786,Tong Xu,https://orcid.org/0000-0003-4246-5386,310,University of Bath, UK
-https://openalex.org/A5007006789,Tingting Liang,https://orcid.org/0000-0003-1607-5771,283,Nanning Normal University, China
+https://openalex.org/A5007006789,Tingting Liang,https://orcid.org/0000-0003-1607-5771,283,Gansu University of Traditional Chinese Medicine, China
 https://openalex.org/A5000124022,Li Liang,https://orcid.org/0000-0002-6168-6574,277,Ministry of Agriculture and Rural Affairs, China
 https://openalex.org/A5015152606,Xiao Liang,https://orcid.org/0000-0003-0330-7027,246,Sichuan University, China
 https://openalex.org/A5035094559,Yuting Liang,https://orcid.org/0000-0001-5443-4486,243,Central China Normal University, China
@@ -356,10 +357,10 @@ https://openalex.org/A5076608792,Hugo Perazzo Pedroso Barbosa,https://orcid.org/
 https://openalex.org/A5033380315,Victor Hugo Barbosa dos Santos,None,14,Universidade Federal de Pernambuco, Brazil
 https://openalex.org/A5052691876,Hugo Barbosa Alves,None,12,Universidade Federal do Rio de Janeiro, Brazil
 https://openalex.org/A5063922906,Hugo Barbosa do Nascimento,None,11,Universidade Federal Rural de Pernambuco, Brazil
-https://openalex.org/A5069465996,Vitor Lima de Oliveira,None,7,Universidade do Estado de Santa Catarina, Brazil
+https://openalex.org/A5069465996,VICTOR HUGO BARBOSA DA SILVA OLIVEIRA,None,7,Universidade do Estado de Santa Catarina, Brazil
 https://openalex.org/A5023217680,Hugo Barbosa,None,5,None
 https://openalex.org/A5079954098,Hugo Barbosa Amorim,None,5,Universidade Federal Rural do Rio de Janeiro, Brazil
-https://openalex.org/A5013987515,Victor Hugo Sousa de Oliveira,https://orcid.org/0009-0007-6726-1212,5,Universidade Federal da Paraíba, Brazil
+https://openalex.org/A5013857925,Hugo Barbosa,https://orcid.org/0000-0003-0465-7555,5,Pontifícia Universidade Católica de Minas Gerais, Brazil
 https://openalex.org/A5011035455,Adam Frank,https://orcid.org/0000-0002-4948-7820,555,University of Rochester, USA
 https://openalex.org/A5030993950,Adam Frankish,https://orcid.org/0000-0002-4333-628X,119,European Bioinformatics Institute, UK
 https://openalex.org/A5012132817,Adam M. Frank,None,87,Thomas Jefferson University, USA
@@ -447,7 +448,7 @@ https://openalex.org/A5053311835,Marcin Waniek,https://orcid.org/0000-0002-2864-
 https://openalex.org/A5079517520,Petter Holme,https://orcid.org/0000-0003-2156-1096,257,Kobe University, Japan
 https://openalex.org/A5066339854,Petter Holmesland,None,1,None
 https://openalex.org/A5077531047,Katayoun Farrahi,https://orcid.org/0000-0001-6775-127X,62,University of Southampton, UK
-https://openalex.org/A5083517347,Rémi Emonet,https://orcid.org/0000-0002-1870-1329,113,Jean Monnet University, France
+https://openalex.org/A5083517347,Rémi Emonet,https://orcid.org/0000-0002-1870-1329,113,Laboratoire Hubert Curien, France
 https://openalex.org/A5044714759,Rémi Emonet,None,27,None
 https://openalex.org/A5017095669,Manuel Cebrián,None,215,Universidad Carlos III de Madrid, Spain
 https://openalex.org/A5045258387,Manuel Cebrián de la Serna,https://orcid.org/0000-0002-0246-7398,198,International University of Andalucía, Spain
@@ -541,7 +542,7 @@ https://openalex.org/A5075938156,Xu Zhao,https://orcid.org/0000-0002-8176-623X,1
 https://openalex.org/A5018582393,Huibi Xu,https://orcid.org/0000-0002-1068-8473,842,Beihang University, China
 https://openalex.org/A5014213683,Zhenbo Xu,https://orcid.org/0000-0003-2865-2441,839,Guangdong University of Technology, China
 https://openalex.org/A5085975667,Huiling Xu,https://orcid.org/0000-0003-4545-3428,827,University of Electronic Science and Technology of China, China
-https://openalex.org/A5046655494,Zhi‐Kang Xu,https://orcid.org/0000-0003-2722-9262,826,Ministry of Education of the People's Republic of China, China
+https://openalex.org/A5046655494,Zhi‐Kang Xu,https://orcid.org/0000-0003-2722-9262,826,Dalian Maritime University, China
 https://openalex.org/A5045373344,Gelin Xu,https://orcid.org/0000-0003-2029-8177,826,Yunnan University, China
 https://openalex.org/A5013867024,Wei Xu,https://orcid.org/0000-0001-9341-8382,768,Hefei University, China
 https://openalex.org/A5042411940,Zuyan Xu,https://orcid.org/0000-0003-2368-8605,721,South China University of Technology, China
@@ -596,7 +597,7 @@ https://openalex.org/A5043560449,Fabio Carella,https://orcid.org/0000-0002-7139-
 https://openalex.org/A5077795637,Jennifer Pan,https://orcid.org/0000-0002-4818-0122,70,Stanford University, USA
 https://openalex.org/A5071854137,Jennifer Y. Pan,None,59,The Ohio State University Comprehensive Cancer Center – Arthur G. James Cancer Hospital and Richard J. Solove Research Institute, USA
 https://openalex.org/A5041002196,Jennifer Pankow,https://orcid.org/0000-0003-3378-8941,30,Texas Christian University, USA
-https://openalex.org/A5053848642,Jennifer Ho,None,27,Medical School Berlin, Germany
+https://openalex.org/A5053848642,Jennifer Ho,None,27,MSB Medical School Berlin, Germany
 https://openalex.org/A5039498404,Jennifer Panek,None,26,University of Ottawa, Canada
 https://openalex.org/A5082810247,Jennifer L. Pannell,https://orcid.org/0000-0002-8365-6974,18,Auckland University of Technology, New Zealand
 https://openalex.org/A5085939245,Jennifer M. Pang,None,16,Nanyang Polytechnic, Singapore
@@ -816,169 +817,24 @@ https://openalex.org/A5043526874,Aymeric Luneau,None,15,Maison des Sciences de l
 https://openalex.org/A5076432818,Aymeric Luneau,None,3,Sciences Po, France
 https://openalex.org/A5013145810,Jean‐Philippe Cointet,None,162,Sciences Po, France
 https://openalex.org/A5031767581,Yuan Zhang,https://orcid.org/0000-0002-3225-2769,7000,Institute of Plasma Physics, China
-https://openalex.org/A5002188808,Yuanyuan Zhang,https://orcid.org/0009-0003-7987-3436,5476,China Medical University, China
+https://openalex.org/A5002188808,Yuanyuan Zhang,https://orcid.org/0009-0003-7987-3436,5476,China University of Mining and Technology, China
 https://openalex.org/A5051439492,Mengjie Zhang,https://orcid.org/0000-0003-4148-4294,4127,Shanghai Ocean University, China
 https://openalex.org/A5002847748,Yang Sun,https://orcid.org/0000-0002-7268-9201,2046,China University of Mining and Technology, China
 https://openalex.org/A5053402281,Zhiyuan Zhang,https://orcid.org/0000-0003-0336-7783,1857,Beijing Municipal Education Commission, China
 https://openalex.org/A5027781871,Liyuan Zhang,https://orcid.org/0000-0003-2631-5900,1321,Heilongjiang Bayi Agricultural University, China
-https://openalex.org/A5005774249,Yuwei Zhang,https://orcid.org/0000-0003-2726-2855,1092,Hunan University of Technology, China
+https://openalex.org/A5005774249,Yuwei Zhang,https://orcid.org/0000-0003-2726-2855,1092,Jiangxi University of Traditional Chinese Medicine, China
 https://openalex.org/A5026066949,Siyuan Zhang,https://orcid.org/0000-0001-5134-3044,1073,China University of Petroleum, Beijing, China
 https://openalex.org/A5071674965,Zhen Yuan,https://orcid.org/0000-0003-3061-6263,929,State Key Laboratory of Food Science and Technology, China
 https://openalex.org/A5019735991,Jingyuan Zhang,https://orcid.org/0000-0002-5102-1085,836,China Design Group (China), China
-https://openalex.org/A5059264917,Peng Gong,https://orcid.org/0000-0003-1513-3765,1027,Shenyang Aerospace University, China
-https://openalex.org/A5019094542,Yang Pu,https://orcid.org/0000-0003-2061-2509,508,Wuhan Third Hospital, China
+https://openalex.org/A5059264917,Peng Gong,https://orcid.org/0000-0003-1513-3765,1027,Qingdao University of Technology, China
+https://openalex.org/A5019094542,Yang Pu,https://orcid.org/0000-0003-2061-2509,508,North West Agriculture and Forestry University, China
 https://openalex.org/A5000647003,Ping Yan,https://orcid.org/0000-0001-6765-0735,493,Tsinghua University, China
 https://openalex.org/A5085097708,Yan Peng,https://orcid.org/0000-0003-1312-9527,484,Shanghai University, China
 https://openalex.org/A5062122030,Ping Yan,https://orcid.org/0000-0002-8177-7019,355,Hefei University of Technology, China
 https://openalex.org/A5076972729,Ye Yang,https://orcid.org/0000-0002-5571-9747,301,Ningxia Medical University, China
-https://openalex.org/A5068021161,Yang Yu,https://orcid.org/0000-0003-4669-934X,291,Hunan University, China
+https://openalex.org/A5068021161,Yang Yu,https://orcid.org/0000-0003-4669-934X,291,North China Electric Power University, China
 https://openalex.org/A5033542063,Pingchuan Sun,https://orcid.org/0000-0002-5603-6462,281,Nankai University, China
 https://openalex.org/A5032883749,Shaopu Yang,https://orcid.org/0000-0002-3888-4169,281,Shijiazhuang Tiedao University, China
-https://openalex.org/A5050495630,Sheng Yang,https://orcid.org/0000-0003-1630-8037,275,Southwest Jiaotong University, China
-https://openalex.org/A5067625837,Ralph Schroeder,https://orcid.org/0000-0002-4229-1585,286,University of Oxford, UK
-https://openalex.org/A5010153559,William R. Schroeder,None,77,Agriculture and Agri-Food Canada, Canada
-https://openalex.org/A5001507258,Steven R. Schroeder,None,29,Jet Propulsion Laboratory, USA
-https://openalex.org/A5025725666,Ralph. Schroeder,None,1,None
-https://openalex.org/A5082554858,Akira Matsui,https://orcid.org/0000-0002-0174-914X,644,Kariya Toyota General Hospital, Japan
-https://openalex.org/A5068368819,Atsushi Matsui,https://orcid.org/0000-0001-9107-3931,250,Yokohama National University, Japan
-https://openalex.org/A5018478540,Akira Matsui,None,14,Marina Del Rey Hospital, USA
-https://openalex.org/A5056193227,Akira Matsui,None,4,None
-https://openalex.org/A5038959909,Akira Matsui,None,2,None
-https://openalex.org/A5045427695,Akira Matsui,None,2,None
-https://openalex.org/A5038272010,Akira Matsui,https://orcid.org/0000-0003-3953-378X,1,Yokohama National University, Japan
-https://openalex.org/A5063126381,Akira MATSUISHI,None,1,None
-https://openalex.org/A5036544901,Akira Matsuishi,None,1,Fukushima Medical University, Japan
-https://openalex.org/A5075660224,Takayuki Murayama,None,102,Niigata University, Japan
-https://openalex.org/A5008840028,Taichi Murayama,https://orcid.org/0000-0003-1148-711X,33,Sanken Electric (Japan), Japan
-https://openalex.org/A5058186379,Taichi Murayama,None,4,Kogakuin University, Japan
-https://openalex.org/A5056832776,Taichi Murayama,None,3,Tottori University, Japan
-https://openalex.org/A5031461158,Onur Varol,https://orcid.org/0000-0002-3994-6106,82,Sabancı University, Turkey
-https://openalex.org/A5046088780,Onur Varolun,https://orcid.org/0000-0001-5177-205X,2,Kilis 7 Aralık University, Turkey
-https://openalex.org/A5093623508,Onur Varolun,None,1,None
-https://openalex.org/A5068068144,Martin Gerlach,https://orcid.org/0000-0002-6932-8480,110,Leibniz University Hannover, Germany
-https://openalex.org/A5008805047,Martin Gerlach,https://orcid.org/0000-0002-0879-7865,39,Wikimedia Foundation, USA
-https://openalex.org/A5003687461,Hans-Martin Gerlach,None,32,None
-https://openalex.org/A5004197234,Martin Gerlach,None,3,Heinrich Heine University Düsseldorf, Germany
-https://openalex.org/A5035678446,Martin Gerlach,None,2,None
-https://openalex.org/A5058429963,Hans-Martin Gerlach,None,2,None
-https://openalex.org/A5028539042,Hans-Martin Gerlach,None,2,None
-https://openalex.org/A5060039328,Martin Gerlach,None,2,IBM Research - Almaden, USA
-https://openalex.org/A5074690102,Hans Martin Gerlach,None,2,None
-https://openalex.org/A5090658490,Martin Gerlach,None,2,None
-https://openalex.org/A5078699564,Emilio Ferrara,https://orcid.org/0000-0002-1942-2831,395,University of Southern California, USA
-https://openalex.org/A5070221432,Patrick Gildersleve,https://orcid.org/0000-0003-3714-6823,11,London School of Economics and Political Science, UK
-https://openalex.org/A5075314395,Akhil Arora,https://orcid.org/0000-0001-6073-6528,58,Texas A&M University, USA
-https://openalex.org/A5027499841,Alexander Smirnov,https://orcid.org/0009-0002-7566-7267,781,Saint Petersburg State University of Architecture and Civil Engineering, Russian Federation
-https://openalex.org/A5025942498,И. А. Смирнов,None,284,Don State Technical University, Russian Federation
-https://openalex.org/A5067130509,Иван Смирнов,https://orcid.org/0000-0002-0384-6568,215,Institute of Bioorganic Chemistry, Russian Federation
-https://openalex.org/A5066515109,Ivan Smirnov,https://orcid.org/0000-0002-5419-5312,93,Institute of Experimental Physics, Slovakia
-https://openalex.org/A5061653854,И. В. Смирнов,https://orcid.org/0000-0002-9959-2098,89,Institute of Strength Physics and Materials Science, Russian Federation
-https://openalex.org/A5083708923,И. Е. Смирнов,https://orcid.org/0000-0002-4679-0533,87,Moscow Institute of Physics and Technology, Russian Federation
-https://openalex.org/A5070267730,Ivan V. Smirnov,https://orcid.org/0000-0003-4490-2017,84,Russian Academy of Sciences, Russian Federation
-https://openalex.org/A5079986256,И. П. Смирнов,https://orcid.org/0000-0002-1646-7006,75,Institute of Applied Physics, Russian Federation
-https://openalex.org/A5012147451,I. Yu. Smirnov,https://orcid.org/0000-0001-5019-6820,73,Ioffe Institute, Russian Federation
-https://openalex.org/A5056369370,Ivan V. Smirnov,https://orcid.org/0000-0002-6192-7008,44,Institute of Higher Nervous Activity and Neurophysiology, Russian Federation
-https://openalex.org/A5048691309,Constantin Oprean,https://orcid.org/0000-0002-1710-0660,116,Victor Babeș University of Medicine and Pharmacy Timișoara, Romania
-https://openalex.org/A5067215455,Corneliu I. Oprea,https://orcid.org/0000-0001-7413-4093,76,RWTH Aachen University, Germany
-https://openalex.org/A5010350461,Camelia Oprean-Stan,https://orcid.org/0000-0003-3492-2401,38,Lucian Blaga University of Sibiu, Romania
-https://openalex.org/A5007724882,Camelia Oprean,None,10,Salvadoran Lutheran University, El Salvador
-https://openalex.org/A5093250221,Prof. Camelia Oprean-Stan,None,1,Lucian Blaga University of Sibiu, Romania
-https://openalex.org/A5092569873,Prof. Camelia OPREAN - STAN,None,1,Lucian Blaga University of Sibiu, Romania
-https://openalex.org/A5071422618,Markus Strohmaier,https://orcid.org/0000-0002-5485-5720,336,Complexity Science Hub Vienna, Austria
-https://openalex.org/A5023447406,Roberta Rocca,https://orcid.org/0000-0002-0680-7097,60,Magna Graecia University, Italy
-https://openalex.org/A5046123428,Roberta Rocca,https://orcid.org/0000-0001-9017-8088,40,Aarhus University, Denmark
-https://openalex.org/A5024378198,Shreya Havaldar,None,16,University of Pennsylvania, USA
-https://openalex.org/A5015904949,Shreya Havaldar,https://orcid.org/0000-0002-9661-5055,1,California University of Pennsylvania, USA
-https://openalex.org/A5035586848,Thomas Talhelm,https://orcid.org/0000-0002-0954-5758,86,University of Chicago, USA
-https://openalex.org/A5057630806,Rangel Arthur,https://orcid.org/0000-0001-7722-9522,198,Universidade Estadual de Campinas (UNICAMP), Brazil
-https://openalex.org/A5060475385,Rudy A. Denton,https://orcid.org/0000-0002-7271-4825,23,North-West University, South Africa
-https://openalex.org/A5043286310,Rudy Arthur,None,5,Illumina (United Kingdom), UK
-https://openalex.org/A5067315236,Camille Landesvatter,https://orcid.org/0000-0003-0156-5364,7,University of Mannheim, Germany
-https://openalex.org/A5058003997,Yuhang Jiang,https://orcid.org/0000-0003-4842-4921,200,Guangzhou Institute of Geochemistry, China
-https://openalex.org/A5087929857,Hang Jiang,https://orcid.org/0000-0002-8060-6592,183,Huaqiao University, China
-https://openalex.org/A5035178849,Yi Jiang,https://orcid.org/0000-0003-1080-5884,178,Fudan University, China
-https://openalex.org/A5057037289,Shidong Jiang,None,148,Changchun Institute of Optics, Fine Mechanics and Physics, China
-https://openalex.org/A5041153961,Hao Jiang,https://orcid.org/0000-0001-9149-8622,141,Peking University Shenzhen Hospital, China
-https://openalex.org/A5071527011,Yajun Jiang,https://orcid.org/0009-0008-2925-8482,110,Nanjing Normal University, China
-https://openalex.org/A5045331047,Hang Jiang,https://orcid.org/0000-0002-6697-409X,109,Jiangnan University, China
-https://openalex.org/A5024999274,Yu Jiang,https://orcid.org/0000-0002-4241-1858,107,Shaanxi Normal University, China
-https://openalex.org/A5039736283,Hongyu Jiang,https://orcid.org/0000-0002-9914-7576,99,Harbin Normal University, China
-https://openalex.org/A5032664588,Yuhang Jiang,https://orcid.org/0009-0006-0120-4402,96,Jiangxi Normal University, China
-https://openalex.org/A5015441797,Xiajie Zhang,https://orcid.org/0000-0001-7816-6412,23,Hunter Medical Research Institute, Australia
-https://openalex.org/A5081400237,X. P. Zhang,None,3,Chengdu Institute of Biology, China
-https://openalex.org/A5058381354,Xiajie Zhang,https://orcid.org/0000-0001-6509-8895,2,Moscow Institute of Thermal Technology, Russian Federation
-https://openalex.org/A5006257925,Xiaobin Cao,None,46,Xuzhou Medical College, China
-https://openalex.org/A5005196296,Xubo Cao,None,2,Stanford University, USA
-https://openalex.org/A5024533264,Xubo Cao,None,2,None
-https://openalex.org/A5052593379,Xubo Cao,None,1,None
-https://openalex.org/A5026429870,Jad Kabbara,None,16,McGill University, Canada
-https://openalex.org/A5092031972,Jad Kabbara,None,2,None
-https://openalex.org/A5021211836,Andrea Tagarelli,https://orcid.org/0000-0002-8142-503X,216,University of Calabria, Italy
-https://openalex.org/A5089890523,Anubhab Das,https://orcid.org/0000-0003-1000-119X,7,Jadavpur University, India
-https://openalex.org/A5063181691,Anubhab Dasgupta,https://orcid.org/0000-0002-3401-7842,6,Indian Institute of Technology Kharagpur, India
-https://openalex.org/A5082657235,Anubhab Das,None,3,SRM Institute of Science and Technology, India
-https://openalex.org/A5038043083,Sanja Šćepanović,None,63,Nokia (United Kingdom), UK
-https://openalex.org/A5015718160,Marie‐Laure Charpignon,https://orcid.org/0000-0002-5786-2627,50,Boston Children's Hospital, USA
-https://openalex.org/A5093285956,Marie Laure-Charpignon,None,1,None
-https://openalex.org/A5015136375,S. Das,https://orcid.org/0000-0002-2678-6780,496,Indian Institute of Technology Bombay, India
-https://openalex.org/A5002940676,Amit Kumar,https://orcid.org/0000-0002-4423-7881,226,Translational Health Science and Technology Institute, India
-https://openalex.org/A5054088799,Sumit Mishra,https://orcid.org/0000-0003-3962-0445,161,Vellore Institute of Technology University, India
-https://openalex.org/A5013060009,Sanjeev Kumar,https://orcid.org/0000-0002-5013-1573,120,Indian Institute of Science Bangalore, India
-https://openalex.org/A5005626921,S. K. Deb,None,115,Al Nahdha Hospital, Oman
-https://openalex.org/A5078804632,S. Kiran Kumar,https://orcid.org/0000-0002-2604-7400,109,Rama University, India
-https://openalex.org/A5069690700,Sanjay Kumar,https://orcid.org/0000-0003-2936-9875,100,NED University of Engineering and Technology, Pakistan
-https://openalex.org/A5018194320,Sachinandan Dutta,https://orcid.org/0000-0002-9071-9259,99,West Bengal University of Animal and Fishery Sciences, India
-https://openalex.org/A5012458684,Sagar Verma,https://orcid.org/0000-0003-3829-6444,97,Central Drug Research Institute, India
-https://openalex.org/A5087558464,Satish Kumar,None,75,Uttaranchal University, India
-https://openalex.org/A5038377848,Roberta Sinatra,None,54,Complexity Science Hub Vienna, Austria
-https://openalex.org/A5053564175,Yanmeng Xing,https://orcid.org/0000-0001-8466-9948,8,Beijing Normal University, China
-https://openalex.org/A5054245541,Yanmeng Xing,None,5,First Affiliated Hospital of Zhengzhou University, China
-https://openalex.org/A5090301487,Suman Kalyan Maity,https://orcid.org/0000-0002-9274-9021,211,Presidency University, India
-https://openalex.org/A5087538685,Suman Kumar Maity,https://orcid.org/0000-0003-2768-4927,76,Syracuse University, USA
-https://openalex.org/A5030340672,Suman Maity,None,13,Vidyasagar University, India
-https://openalex.org/A5076755077,Stefan Wuchty,https://orcid.org/0000-0001-8916-6522,130,Sylvester Comprehensive Cancer Center, USA
-https://openalex.org/A5030448761,Stefan Wuchty,None,3,University of Miami, USA
-https://openalex.org/A5002041772,Dashun Wang,https://orcid.org/0000-0002-7054-2206,130,Northwestern University, USA
-https://openalex.org/A5041524693,Wang Da-shun,None,3,Henan Polytechnic University, China
-https://openalex.org/A5015396887,Stephan Bachmann,None,121,Roche (Switzerland), Switzerland
-https://openalex.org/A5056182346,John Bachmann,https://orcid.org/0000-0001-9276-0442,32,University of Gothenburg, Sweden
-https://openalex.org/A5027137927,Jan Bachmann,https://orcid.org/0000-0001-9276-0442,29,Complexity Science Hub Vienna, Austria
-https://openalex.org/A5058749666,Bo Jan Bachmann,None,1,University of Cologne, Germany
-https://openalex.org/A5056251993,J.-P. Bachmann,None,1,Forschungs- und Entwicklungszentrum Fachhochschule Kiel (Germany), Germany
-https://openalex.org/A5093820906,Jan Bachmann,None,0,None
-https://openalex.org/A5014548243,Lisette Espín-Noboa,https://orcid.org/0000-0002-3945-2966,17,Complexity Science Hub Vienna, Austria
-https://openalex.org/A5074129504,Fariba Karimi,https://orcid.org/0000-0002-0037-2475,96,Complexity Science Hub Vienna, Austria
-https://openalex.org/A5037943838,Fariba Karimi,https://orcid.org/0000-0002-8594-3790,48,Islamic Azad University, Tehran, Iran, Islamic Republic of
-https://openalex.org/A5067303895,Fariba Karimi,https://orcid.org/0000-0002-5754-5189,22,Shiraz University of Medical Sciences, Iran, Islamic Republic of
-https://openalex.org/A5017614898,Fariba Karimi,None,5,Foundation for Research on Information Technologies in Society, Switzerland
-https://openalex.org/A5008288617,Fariba Karimian Khosrowshahi,None,2,None
-https://openalex.org/A5088588070,Fariba Karimian,None,2,Islamic Azad University of Tabriz, Iran, Islamic Republic of
-https://openalex.org/A5028533176,Fariba Karimin,None,1,None
-https://openalex.org/A5050470869,Fariba Karimiyan Khosroshahi,None,1,Azarbaijan Shahid Madani University, Iran, Islamic Republic of
-https://openalex.org/A5037220598,Fariba Karimian,None,1,None
-https://openalex.org/A5091952853,Fariba Karimi-Dehkordi,None,1,Islamic Azad University, Isfahan, Iran, Islamic Republic of
-https://openalex.org/A5060256587,Claudia Acciai,https://orcid.org/0000-0001-6779-2653,14,University of Copenhagen, Denmark
-https://openalex.org/A5038390320,Frauke Kreuter,https://orcid.org/0000-0002-7339-2645,299,University of Mary, USA
-https://openalex.org/A5022272025,Francesco Bonchi,https://orcid.org/0000-0001-9464-8315,336,Institute for Scientific Interchange, Italy
-https://openalex.org/A5047760765,Bonchi Francesco,None,4,Yahoo (Spain), Spain
-https://openalex.org/A5067134501,Subhayan Mukerjee,https://orcid.org/0000-0002-1885-5440,25,National University of Singapore, Singapore
-https://openalex.org/A5022802322,Yang Zhang,https://orcid.org/0000-0002-2945-882X,15205,Hainan University, China
-https://openalex.org/A5044396095,Ye Tian,https://orcid.org/0000-0003-3726-7270,2387,Cranfield University, UK
-https://openalex.org/A5047757729,Zhaohui Yang,https://orcid.org/0000-0002-2785-9582,1150,Zhejiang University, China
-https://openalex.org/A5075435507,Ting Dong,https://orcid.org/0000-0003-1762-9561,682,Shaanxi University of Science and Technology, China
-https://openalex.org/A5006329362,Yang Huang,https://orcid.org/0000-0001-6878-3580,643,Nanjing University of Aeronautics and Astronautics, China
-https://openalex.org/A5054067619,Wei Yang,https://orcid.org/0009-0004-4126-6240,629,Shanghai University of Electric Power, China
-https://openalex.org/A5066079803,Yue Yang,https://orcid.org/0000-0002-8886-7682,608,Peking University Cancer Hospital, China
-https://openalex.org/A5017566667,Tao Yu,https://orcid.org/0000-0003-1981-3469,568,China University of Geosciences, China
-https://openalex.org/A5045527959,Yintang Yang,https://orcid.org/0000-0002-0056-3626,518,Xidian University, China
-https://openalex.org/A5075136358,Yang Tian,https://orcid.org/0000-0003-0800-5810,477,Nanjing University of Science and Technology, China
-https://openalex.org/A5013761723,Yilang Peng,https://orcid.org/0000-0001-7711-9518,30,University of Georgia, USA
-https://openalex.org/A5073116071,Miaomiao Cheng,https://orcid.org/0000-0002-2979-6976,95,Chongqing University, China
-https://openalex.org/A5012497196,Mengjie Cheng,https://orcid.org/0000-0002-8890-7648,12,Harvard University Press, USA
-https://openalex.org/A5053665485,Mengjie Cheng,https://orcid.org/0000-0002-5256-2449,5,Hangzhou Dianzi University, China
-https://openalex.org/A5019120280,Mengjie Cheng,None,4,North West Agriculture and Forestry University, China
-https://openalex.org/A5007104279,Shunyuan Zhang,https://orcid.org/0009-0003-5660-724X,65,Harvard University Press, USA
-https://openalex.org/A5024808817,Shunyuan Zhang,https://orcid.org/0000-0002-9044-1621,1,None
 https://openalex.org/A5011126050,Makoto Mizuno,https://orcid.org/0000-0002-2300-1618,292,Meiji University, Japan
 https://openalex.org/A5006091906,Makoto Asano,None,177,Gifu University, Japan
 https://openalex.org/A5081111367,M. Mizuno,None,67,Sophia University, Japan
@@ -997,7 +853,7 @@ https://openalex.org/A5015694492,Zoltán Kmetty,https://orcid.org/0000-0002-6775
 https://openalex.org/A5079023834,Zoltan Kmetty,None,1,None
 https://openalex.org/A5002912874,Julia Szamely,None,1,None
 https://openalex.org/A5084617220,Dongning Deng,None,3,Jiangsu University, China
-https://openalex.org/A5065232848,James D. Michelson,https://orcid.org/0000-0001-6997-2666,133,University of Iowa, USA
+https://openalex.org/A5065232848,James D. Michelson,https://orcid.org/0000-0001-6997-2666,133,University of Vermont, USA
 https://openalex.org/A5061831997,Miruna Cotet,None,1,The Ohio State University, USA
 https://openalex.org/A5035276054,Wenjia Zhao,None,46,Wuhan University, China
 https://openalex.org/A5000925107,Wenjia Zhao,https://orcid.org/0009-0006-2656-6602,36,Chengdu University of Information Technology, China
@@ -1034,7 +890,7 @@ https://openalex.org/A5013243002,Frank Neffke,None,2,Complexity Science Hub Vien
 https://openalex.org/A5002455634,Hirokazu Shirado,https://orcid.org/0000-0003-4545-7859,30,Carnegie Mellon University, USA
 https://openalex.org/A5071088094,Shunichi Kasahara,https://orcid.org/0000-0002-4353-7620,63,Sony Computer Science Laboratories, Japan
 https://openalex.org/A5082312168,Shunichi Kasahara,None,2,Waseda University, Japan
-https://openalex.org/A5014662127,Alain Barrat,https://orcid.org/0000-0001-8683-269X,325,French National Centre for Scientific Research, France
+https://openalex.org/A5014662127,Alain Barrat,https://orcid.org/0000-0001-8683-269X,325,Université de Toulon, France
 https://openalex.org/A5067206551,Sebastiano Bontorin,https://orcid.org/0000-0002-2354-8576,8,Fondazione Bruno Kessler, Italy
 https://openalex.org/A5059223686,Riccardo Gallotti,https://orcid.org/0000-0002-8088-1973,67,Fondazione Bruno Kessler, Italy
 https://openalex.org/A5068819495,Luca Pappalardo,https://orcid.org/0000-0002-1547-6007,133,University of Pisa, Italy
@@ -1043,6 +899,7 @@ https://openalex.org/A5078543908,Qingtao Cao,None,7,Boston University, USA
 https://openalex.org/A5037742171,Qingtao Cao,None,2,Shanghai Electric (China), China
 https://openalex.org/A5031898166,Qing-tao Cao,None,2,Yidu Central Hospital of Weifang, China
 https://openalex.org/A5030641600,Babak Heydari,https://orcid.org/0000-0002-4964-8655,88,Northeastern University, USA
+https://openalex.org/A5093976008,Babak Heydari,None,0,None
 https://openalex.org/A5088716169,Giovanni Bellotti,None,544,Veolia (Italy), Italy
 https://openalex.org/A5073314275,Giovanni Mauromicale,https://orcid.org/0000-0003-0933-9302,258,University of Catania, Italy
 https://openalex.org/A5042970272,Giovanni Mauro Cattaneo,None,177,San Raffaele University of Rome, Italy
@@ -1056,14 +913,14 @@ https://openalex.org/A5064507147,Antonio Longarela Herrero,None,3,None
 https://openalex.org/A5036298760,Maddalena Conte,https://orcid.org/0000-0002-6840-8593,70,Casa di Cura San Michele, Italy
 https://openalex.org/A5041382762,M Conte,None,12,Istituti di Ricovero e Cura a Carattere Scientifico, Italy
 https://openalex.org/A5045356385,Maddalena Conte,None,3,University of Naples Federico II, Italy
-https://openalex.org/A5015195367,Qi Wang,https://orcid.org/0000-0002-1328-8571,13319,University of Shanghai for Science and Technology, China
+https://openalex.org/A5015195367,Qi Wang,https://orcid.org/0000-0002-1328-8571,13319,Nantong University, China
 https://openalex.org/A5072315367,Qing Wang,https://orcid.org/0000-0002-5968-3235,9202,Nanchang University, China
 https://openalex.org/A5029762841,Jiaqi Wang,https://orcid.org/0000-0002-1364-0061,2722,Southwestern Institute of Physics, China
 https://openalex.org/A5074504754,Zhihui Wang,https://orcid.org/0000-0002-1138-8464,2653,Second Affiliated Hospital of Jilin University, China
 https://openalex.org/A5078403633,Wang Jing,https://orcid.org/0000-0002-6847-8452,1651,North China University of Technology, China
 https://openalex.org/A5083869508,Yuqi Wang,https://orcid.org/0000-0002-9063-9734,1583,Fuzhou University, China
 https://openalex.org/A5064317694,Siqi Wang,https://orcid.org/0000-0002-8134-9508,1420,Chengdu University of Technology, China
-https://openalex.org/A5021818013,Yaqi Wang,https://orcid.org/0000-0002-4627-3392,1052,Northeast Normal University, China
+https://openalex.org/A5021818013,Yaqi Wang,https://orcid.org/0000-0002-4627-3392,1052,Tianjin Medical University, China
 https://openalex.org/A5042401810,Shiqi Wang,https://orcid.org/0000-0002-3583-959X,1045,Xi'an Jiaotong University, China
 https://openalex.org/A5044400826,Ruiqi Wang,https://orcid.org/0000-0002-9403-7693,944,Institute of Biophysics, China
 https://openalex.org/A5060715254,K. Vasanth,https://orcid.org/0000-0002-6886-5727,99,Chaitanya Bharathi Institute of Technology, India
@@ -1076,7 +933,7 @@ https://openalex.org/A5052086909,Lei Sun,https://orcid.org/0000-0002-7784-7942,2
 https://openalex.org/A5041260784,Lijun Sun,https://orcid.org/0000-0003-4022-8803,1021,Tongji University, China
 https://openalex.org/A5014897351,Lingyun Sun,https://orcid.org/0000-0002-8563-2036,666,Nanjing Drum Tower Hospital, China
 https://openalex.org/A5027164234,Xiaochuan Sun,https://orcid.org/0000-0002-0666-9886,600,First Affiliated Hospital of Dalian Medical University, China
-https://openalex.org/A5043598199,Lina Sun,https://orcid.org/0000-0003-1695-6480,560,Shanghai University of Traditional Chinese Medicine, China
+https://openalex.org/A5043598199,Lina Sun,https://orcid.org/0000-0003-1695-6480,560,Jiangsu University, China
 https://openalex.org/A5060145891,Chen Sun,https://orcid.org/0000-0002-4142-4008,533,Commonwealth Scientific and Industrial Research Organisation, Australia
 https://openalex.org/A5091537321,Lichao Sun,https://orcid.org/0000-0002-0465-8825,530,Jiangsu Province Hospital, China
 https://openalex.org/A5006118312,Sun D,https://orcid.org/0000-0002-2692-6384,528,China National Petroleum Corporation (China), China
@@ -1097,7 +954,7 @@ https://openalex.org/A5015061573,Ke Zhou,https://orcid.org/0000-0002-2161-8796,5
 https://openalex.org/A5034241411,Jianqin Zhou,https://orcid.org/0000-0003-4632-9381,425,Soochow University, China
 https://openalex.org/A5052132950,Jianying Zhou,https://orcid.org/0000-0002-8924-935X,398,First Affiliated Hospital Zhejiang University, China
 https://openalex.org/A5031306882,Haiyan Zhou,https://orcid.org/0000-0002-0868-3606,310,Xiangya Hospital Central South University, China
-https://openalex.org/A5063372408,Lun Zhou,https://orcid.org/0000-0002-0910-8689,261,Heilongjiang Academy of Sciences, China
+https://openalex.org/A5063372408,Lun Zhou,https://orcid.org/0000-0002-0910-8689,261,Gannan Medical University, China
 https://openalex.org/A5062353248,Zongke Zhou,https://orcid.org/0000-0002-2733-759X,245,Second Affiliated Hospital of Soochow University, China
 https://openalex.org/A5025549226,Xin Zhou,https://orcid.org/0000-0003-0985-7249,241,Nanjing Forestry University, China
 https://openalex.org/A5081879402,Jiang Zhou,https://orcid.org/0000-0002-2982-2601,213,Fuzhou University, China
@@ -1142,7 +999,7 @@ https://openalex.org/A5061941192,Priyanka Goonetilleke,https://orcid.org/0000-00
 https://openalex.org/A5072436705,Anastasia Karpova,None,8,None
 https://openalex.org/A5006831796,А. В. Карпова,None,5,None
 https://openalex.org/A5048006269,Anastasia Karpova,None,4,Princeton University, USA
-https://openalex.org/A5046955571,Peter Meylakhs,None,27,National Research University Higher School of Economics, Russian Federation
+https://openalex.org/A5046955571,Peter Meylakhs,None,27,Sechenov University, Russian Federation
 https://openalex.org/A5053883223,Meylakhs Peter,None,3,Moscow Power Engineering Institute, Russian Federation
 https://openalex.org/A5005840933,Bennard Doornbos,https://orcid.org/0000-0002-5013-3501,52,GGZ Drenthe, Netherlands
 https://openalex.org/A5014971104,Richard Bruggeman,https://orcid.org/0000-0002-3238-8471,401,University Medical Center Groningen, Netherlands
@@ -1182,7 +1039,7 @@ https://openalex.org/A5057252498,Shayan Ebrahimi,https://orcid.org/0000-0002-240
 https://openalex.org/A5046475081,Fabrizio Gilardi,https://orcid.org/0000-0002-0635-3048,112,University of Zurich, Switzerland
 https://openalex.org/A5061885292,Fabrizio Gilardino,None,1,None
 https://openalex.org/A5061267204,Jaime Lloret,https://orcid.org/0000-0002-0862-0533,834,Universitat Politècnica de València, Spain
-https://openalex.org/A5011888247,Jaime A. Moreno,https://orcid.org/0000-0002-2556-9784,282,Pontificia Universidad Católica del Ecuador, Ecuador
+https://openalex.org/A5011888247,Jaime A. Moreno,https://orcid.org/0000-0002-2556-9784,282,Universidad Nacional Autónoma de México, Mexico
 https://openalex.org/A5071179664,José Carlos Jaime‐Pérez,https://orcid.org/0000-0001-6804-9095,224,Universidad Autónoma de Nuevo León, Mexico
 https://openalex.org/A5001472756,José Javier Elizalde González,None,141,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico
 https://openalex.org/A5025136823,Joaquín Pérez,https://orcid.org/0000-0003-3382-8165,131,Universidad Politécnica de Cartagena, Spain
@@ -1221,7 +1078,7 @@ https://openalex.org/A5042865019,Dylan Connor Leary,None,1,None
 https://openalex.org/A5021841588,Thomas Kemeny,https://orcid.org/0000-0003-4984-9104,89,University of Toronto, Canada
 https://openalex.org/A5079154791,Kokil Jaidka,https://orcid.org/0000-0002-8127-1157,130,National University of Singapore, Singapore
 https://openalex.org/A5028191957,Junsol Kim,None,14,Yonsei University, Korea, Republic of
-https://openalex.org/A5021541750,J. S. Kim,None,3,Kumoh National Institute of Technology, Korea, Republic of
+https://openalex.org/A5021541750,Junsol Kim,None,3,Kumoh National Institute of Technology, Korea, Republic of
 https://openalex.org/A5066089123,Byungkyu Lee,https://orcid.org/0000-0003-0248-3088,35,New York University, USA
 https://openalex.org/A5049389181,Ece Olcay Güneş,https://orcid.org/0000-0001-9186-7424,94,Istanbul Technical University, Turkey
 https://openalex.org/A5006727537,Erkan Gunes,None,1,None
@@ -1267,7 +1124,7 @@ https://openalex.org/A5007841666,Aaron C. T. Smith,https://orcid.org/0000-0001-9
 https://openalex.org/A5047152599,JA Smith,None,173,Manchester University NHS Foundation Trust, UK
 https://openalex.org/A5031639437,Katy Smith,https://orcid.org/0000-0003-3195-3317,165,Université Saint-Louis, Belgium
 https://openalex.org/A5015211752,Aaron Smith,https://orcid.org/0000-0003-3768-8550,157,AstraZeneca (United Kingdom), UK
-https://openalex.org/A5082254209,A. Gordon Smith,None,102,Microsoft Research (United Kingdom), UK
+https://openalex.org/A5082254209,A. Gordon Smith,None,102,Universidad de Málaga, Spain
 https://openalex.org/A5029083127,Aaron T. Smith,https://orcid.org/0000-0002-9332-8683,101,Michigan Medicine, USA
 https://openalex.org/A5088276589,Amin Mekacher,https://orcid.org/0000-0002-6102-9216,11,City, University of London, UK
 https://openalex.org/A5023824587,Mohamed Amin Mekacher,None,1,Paris 8 University, France
@@ -1298,7 +1155,7 @@ https://openalex.org/A5078157470,Daniel Romero,https://orcid.org/0000-0002-8498-
 https://openalex.org/A5007808166,D.J. Romero,https://orcid.org/0000-0002-2280-3344,72,Institute of Cardiology, Colombia
 https://openalex.org/A5043895311,Daniel Becerra Romero,https://orcid.org/0000-0001-5227-9697,69,Universidad de Las Palmas de Gran Canaria, Spain
 https://openalex.org/A5014370844,Daniel Romero-Álvarez,https://orcid.org/0000-0002-6762-6046,57,University of Kansas, USA
-https://openalex.org/A5061432070,Daniel Romero-Rodríguez,None,37,Universitat Internacional de Catalunya, Spain
+https://openalex.org/A5061432070,Daniel Romero-Rodríguez,https://orcid.org/0000-0003-2686-3341,37,Universitat Internacional de Catalunya, Spain
 https://openalex.org/A5067953991,Aliakbar Akbaritabar,https://orcid.org/0000-0003-3828-1533,39,Max Planck Institute for Demographic Research, Germany
 https://openalex.org/A5068542997,Vincent Larivière,https://orcid.org/0000-0002-2733-0689,501,Université de Montréal, Canada
 https://openalex.org/A5023610771,Erin Walker,https://orcid.org/0000-0002-0976-9065,172,University of Pittsburgh, USA
@@ -1356,7 +1213,7 @@ https://openalex.org/A5047566321,Vittorio Loreto_aff n,None,1,Sapienza Universit
 https://openalex.org/A5091661935,Erick Elejalde,https://orcid.org/0000-0002-4755-1606,24,L3S Research Center, Germany
 https://openalex.org/A5058740137,Erick Elejalde Sierra,None,2,None
 https://openalex.org/A5017489553,Vı́ctor Sánchez,https://orcid.org/0000-0003-4777-9237,342,University of Warwick, UK
-https://openalex.org/A5064566203,Vı́ctor Navarro,None,285,Cardiff University, UK
+https://openalex.org/A5064566203,Vı́ctor Navarro,None,285,Consorci Institut D'Investigacions Biomediques August Pi I Sunyer, Spain
 https://openalex.org/A5031231657,Victor J. Navarro,https://orcid.org/0000-0002-8428-8528,218,Einstein Healthcare Network, USA
 https://openalex.org/A5051305221,Víctor Navarro Brotóns,None,135,Universitat de València, Spain
 https://openalex.org/A5020171876,Victor Navarro‐Brotóns,None,134,Universitat de València, Spain
@@ -1425,7 +1282,7 @@ https://openalex.org/A5084489575,Lissette Pérez Hernández,https://orcid.org/00
 https://openalex.org/A5030028705,Laura Hernández‐Lorenzo,https://orcid.org/0000-0003-3489-2193,61,National University of Distance Education, Spain
 https://openalex.org/A5064440652,Laura Teresa Hernández Salazar,https://orcid.org/0000-0001-7567-8068,61,Universidad Veracruzana, Mexico
 https://openalex.org/A5051491495,Laura Hernandez-Lagunas,None,44,University of Colorado Anschutz Medical Campus, USA
-https://openalex.org/A5064855215,Laura Hernandez‐Hernandez,https://orcid.org/0000-0001-9807-1621,39,National Hospital for Neurology and Neurosurgery, UK
+https://openalex.org/A5064855215,Laura Hernández-Hernández,https://orcid.org/0000-0001-9807-1621,39,National Hospital for Neurology and Neurosurgery, UK
 https://openalex.org/A5024776803,Laura Hernández Andrade,None,36,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias, Mexico
 https://openalex.org/A5009316832,Dimitris Kotzinos,https://orcid.org/0000-0002-3678-4092,91,French National Centre for Scientific Research, France
 https://openalex.org/A5043770897,Kayla Duskin,None,3,Pacific Northwest National Laboratory, USA
@@ -1470,8 +1327,8 @@ https://openalex.org/A5027261073,Michael Geers,https://orcid.org/0000-0003-0602-
 https://openalex.org/A5022499603,Hao Chen,https://orcid.org/0000-0001-9643-1099,11258,Second Affiliated Hospital of Jilin University, China
 https://openalex.org/A5081557955,Tao Cui,https://orcid.org/0000-0003-0467-7396,397,China Agricultural University, China
 https://openalex.org/A5059651484,Hao Cui,https://orcid.org/0000-0002-9417-5068,208,China University of Mining and Technology, China
-https://openalex.org/A5018416795,Chongwei Cui,https://orcid.org/0000-0002-9587-2711,206,University of Chinese Academy of Sciences, China
-https://openalex.org/A5012962001,Cui Hao,https://orcid.org/0000-0002-7509-5820,205,Third People 's Hospital of Liaoyang, China
+https://openalex.org/A5018416795,Chongwei Cui,https://orcid.org/0000-0002-9587-2711,206,Shandong University of Technology, China
+https://openalex.org/A5012962001,Cui Hao,https://orcid.org/0000-0002-7509-5820,205,Second Hospital of Shanxi Medical University, China
 https://openalex.org/A5054444596,Hao Cui,https://orcid.org/0000-0002-9410-6345,187,Shanghai Center for Brain Science and Brain-Inspired Technology, China
 https://openalex.org/A5025903542,Hao Chen,https://orcid.org/0000-0003-1887-7890,174,Research Institute of Petroleum Exploration and Development, China
 https://openalex.org/A5050402190,Chenyang Hao,https://orcid.org/0000-0001-8878-9701,171,Southwest University of Science and Technology, China
@@ -1479,13 +1336,13 @@ https://openalex.org/A5062739185,Haichao Cui,https://orcid.org/0000-0002-4999-50
 https://openalex.org/A5019685354,Qing Cui,https://orcid.org/0000-0002-0196-9265,165,Nanjing University of Aeronautics and Astronautics, China
 https://openalex.org/A5089865252,Sabine Brunswicker,https://orcid.org/0000-0001-8631-0955,70,Purdue University West Lafayette, USA
 https://openalex.org/A5083712374,Hammaad Adam,https://orcid.org/0000-0001-6910-7074,6,Massachusetts Institute of Technology, USA
-https://openalex.org/A5018748194,Fan Yang,https://orcid.org/0000-0002-0717-894X,3633,China Agricultural University, China
+https://openalex.org/A5018748194,Fan Yang,https://orcid.org/0000-0002-0717-894X,3634,China Agricultural University, China
 https://openalex.org/A5025690046,Fang‐Fang Yin,https://orcid.org/0000-0002-9809-4652,1313,Xi'an University of Architecture and Technology, China
 https://openalex.org/A5043485375,Xiaoxing Yin,https://orcid.org/0000-0001-5558-5534,1007,Shanghai University of Electric Power, China
-https://openalex.org/A5070527811,Fan Yi,https://orcid.org/0000-0002-1494-434X,713,Henan Cancer Hospital, China
-https://openalex.org/A5041181413,Yun Fan,https://orcid.org/0000-0003-3589-9186,507,Shenyang Pharmaceutical University, China
+https://openalex.org/A5070527811,Fan Yi,https://orcid.org/0000-0002-1494-434X,713,Chongqing Jiaotong University, China
+https://openalex.org/A5041181413,Yun Fan,https://orcid.org/0000-0003-3589-9186,507,North China University of Water Resources and Electric Power, China
 https://openalex.org/A5047457262,Ying Fan,https://orcid.org/0000-0002-4147-9594,476,Hong Kong Polytechnic University, Hong Kong
-https://openalex.org/A5079652359,Fan Yang,https://orcid.org/0000-0003-4831-2241,462,Institute of Grassland Research, China
+https://openalex.org/A5079652359,Fan Yang,https://orcid.org/0000-0003-4831-2241,462,Chongqing University, China
 https://openalex.org/A5074748165,Qingrui Yin,https://orcid.org/0000-0003-2866-5234,430,Southwestern Institute of Physics, China
 https://openalex.org/A5067189270,Yujiang Fan,https://orcid.org/0000-0001-6660-1747,429,Sichuan University, China
 https://openalex.org/A5018619642,Fan Yang,https://orcid.org/0000-0003-0717-5420,417,Air Force Medical University, China
@@ -1679,7 +1536,7 @@ https://openalex.org/A5019852650,Xiaoke Zhao,https://orcid.org/0000-0002-7801-13
 https://openalex.org/A5008839788,Xiaofeng Zhao,https://orcid.org/0000-0001-5829-8573,157,Heilongjiang University, China
 https://openalex.org/A5042433819,Xinyi Zhao,https://orcid.org/0000-0002-5324-1137,141,Second Affiliated Hospital of Harbin Medical University, China
 https://openalex.org/A5066180765,Xin Zhao,https://orcid.org/0000-0001-6853-7224,131,Third Affiliated Hospital of Zhengzhou University, China
-https://openalex.org/A5081691382,Xinyu Zhao,https://orcid.org/0009-0007-6483-6148,81,Tianjin Polytechnic University, China
+https://openalex.org/A5081691382,Xinyu Zhao,https://orcid.org/0009-0007-6483-6148,81,Hefei University, China
 https://openalex.org/A5028030376,Xinyi Zhao,https://orcid.org/0000-0002-8924-6431,63,China Railway Group (China), China
 https://openalex.org/A5019052251,Xinyi Zhao,https://orcid.org/0000-0002-9655-4889,58,Hohai University, China
 https://openalex.org/A5025748479,Xinyi Zhao,https://orcid.org/0009-0004-0677-379X,36,Central South University, China
@@ -1715,11 +1572,11 @@ https://openalex.org/A5012429628,Damian Serwata,https://orcid.org/0000-0003-1509
 https://openalex.org/A5001887300,Mateusz Nurek,https://orcid.org/0000-0003-1863-9331,4,Wrocław University of Science and Technology, Poland
 https://openalex.org/A5049612210,Przemysław Kazienko,https://orcid.org/0000-0001-5868-356X,292,AGH University of Krakow, Poland
 https://openalex.org/A5029462231,Tao Jiang,https://orcid.org/0000-0001-8937-679X,1911,China University of Mining and Technology, China
-https://openalex.org/A5071074705,Jianhua Tao,https://orcid.org/0000-0001-9116-2635,909,Universiti Sains Malaysia, Malaysia
+https://openalex.org/A5071074705,Jianhua Tao,https://orcid.org/0000-0001-9116-2635,909,Anhui Institute of Information Technology, China
 https://openalex.org/A5088054570,Litao Jia,https://orcid.org/0000-0002-0448-4909,808,José Rizal University, Philippines
 https://openalex.org/A5014297063,Yulin Jia,https://orcid.org/0000-0002-2132-0498,778,First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, China
 https://openalex.org/A5080382748,Tao Jiang,https://orcid.org/0009-0005-0604-3268,725,Beijing Academy of Agricultural and Forestry Sciences, China
-https://openalex.org/A5091185492,Hong Jiang,https://orcid.org/0000-0002-4261-7987,641,University of Science and Technology of China, China
+https://openalex.org/A5091185492,Hong Jiang,https://orcid.org/0000-0002-4261-7987,641,The University of Texas MD Anderson Cancer Center, USA
 https://openalex.org/A5080283046,Jing Tao,https://orcid.org/0000-0003-4228-6089,629,Ministry of Ecology and Environment, China
 https://openalex.org/A5061811357,Yunyi Jia,https://orcid.org/0000-0003-1334-1384,626,Southwestern University of Finance and Economics, China
 https://openalex.org/A5074903674,Tao Jiang,https://orcid.org/0000-0003-1908-2926,462,First Affiliated Hospital of Anhui Medical University, China
@@ -1736,8 +1593,8 @@ https://openalex.org/A5048056611,Clemens Stachl,https://orcid.org/0000-0002-4498
 https://openalex.org/A5073055523,Clemens Stachl,None,2,None
 https://openalex.org/A5043649135,Thomas Louf,https://orcid.org/0000-0002-8785-8063,8,Institute for Cross-Disciplinary Physics and Complex Systems, Spain
 https://openalex.org/A5044883324,David Sánchez,https://orcid.org/0000-0002-7210-4496,550,Universidad Rovira i Virgili, Spain
-https://openalex.org/A5043278211,David Sànchez,https://orcid.org/0000-0001-7275-7887,253,Universidad Rovira i Virgili, Spain
-https://openalex.org/A5024898329,David Sánchez‐Oliva,https://orcid.org/0000-0001-9678-963X,220,Biomedical Research and Innovation Institute of Cadiz, Spain
+https://openalex.org/A5043278211,David Sánchez,https://orcid.org/0000-0001-7275-7887,253,Universidad Rovira i Virgili, Spain
+https://openalex.org/A5024898329,David Sánchez‐Oliva,https://orcid.org/0000-0001-9678-963X,220,Universidad de Extremadura, Spain
 https://openalex.org/A5024054099,David Sánchez,https://orcid.org/0000-0002-2549-7071,212,Institute for Cross-Disciplinary Physics and Complex Systems, Spain
 https://openalex.org/A5057717436,David Sánchez-Migallón Guzman,None,205,University of California, Davis, USA
 https://openalex.org/A5074359177,David Sánchez Rúbio,https://orcid.org/0000-0002-8005-8864,185,The University of Texas MD Anderson Cancer Center, USA
@@ -1772,7 +1629,7 @@ https://openalex.org/A5032144859,Taylor Jones,None,14,University of Kansas, USA
 https://openalex.org/A5083969011,Meghan E. Armstrong,None,31,University of Massachusetts Amherst, USA
 https://openalex.org/A5023365550,Brendan O’Connor,None,246,Dublin City University, Ireland
 https://openalex.org/A5074307166,Brendan T. O’Connor,https://orcid.org/0000-0002-8999-5184,76,North Carolina State University, USA
-https://openalex.org/A5050742700,Brendan O’Connor,https://orcid.org/0000-0002-9700-0036,64,Carnegie Mellon University, USA
+https://openalex.org/A5050742700,Brendan O’Connor,https://orcid.org/0000-0002-9700-0036,64,George Washington University, USA
 https://openalex.org/A5028953888,Brendan O’Connor,None,58,University of Groningen, Netherlands
 https://openalex.org/A5048602233,Brendan H. O’Connor,https://orcid.org/0000-0001-8422-3305,57,Arizona State University, USA
 https://openalex.org/A5053605931,Brendan F. O’Connor,None,26,Dublin City University, Ireland
@@ -1799,7 +1656,7 @@ https://openalex.org/A5032059296,Joaquín Navajas Acedo,https://orcid.org/0000-0
 https://openalex.org/A5026805387,Joaquin Adán,None,4,None
 https://openalex.org/A5030675526,Joaquín Navajas Jiménez,None,2,None
 https://openalex.org/A5034516125,Mahasweta Chakraborti,None,6,University of California, Davis, USA
-https://openalex.org/A5048041198,Ștefan Stănciulescu,None,16,University of California, Davis, USA
+https://openalex.org/A5048041198,Ştefan Stănciulescu,None,16,University of California, Davis, USA
 https://openalex.org/A5064626129,Vladimir Filkov,None,121,University of California Davis Medical Center, USA
 https://openalex.org/A5022089542,Seth Frey,https://orcid.org/0000-0002-5298-5089,88,Indiana University Bloomington, USA
 https://openalex.org/A5090577017,Dustin E. Wright,None,24,Donor Network West, USA
@@ -1833,10 +1690,10 @@ https://openalex.org/A5010515145,Bin Wang,https://orcid.org/0000-0002-7767-4930,
 https://openalex.org/A5009994877,Hongbin Wang,https://orcid.org/0000-0002-1746-7606,1803,Hebei University of Engineering, China
 https://openalex.org/A5010270772,Zhibin Wang,https://orcid.org/0000-0002-7981-3666,1798,Fuzhou University, China
 https://openalex.org/A5056484501,Haibin Wang,https://orcid.org/0000-0002-9865-324X,1637,Hohai University, China
-https://openalex.org/A5008091677,Wenbin Wang,https://orcid.org/0000-0002-6287-4542,1433,Second Hospital of Anhui Medical University, China
+https://openalex.org/A5008091677,Wenbin Wang,https://orcid.org/0000-0002-6287-4542,1433,National University of Singapore, Singapore
 https://openalex.org/A5013288442,Shaobin Wang,https://orcid.org/0000-0002-1751-9162,1426,University of Adelaide, Australia
 https://openalex.org/A5002720532,Xiaobin Wang,https://orcid.org/0000-0003-2428-694X,1239,Air Force Medical University, China
-https://openalex.org/A5057153132,Yanbin Wang,https://orcid.org/0000-0003-1949-6918,1162,Hunan Institute of Technology, China
+https://openalex.org/A5057153132,Yanbin Wang,https://orcid.org/0000-0003-1949-6918,1162,State Ethnic Affairs Commission, China
 https://openalex.org/A5053967127,Xuebin Wang,https://orcid.org/0000-0003-4270-7330,1044,Xi'an Jiaotong University, China
 https://openalex.org/A5050485733,Jianxun Chu,https://orcid.org/0000-0002-7961-1765,40,University of Science and Technology of China, China
 https://openalex.org/A5000213646,Jianxun Chu,https://orcid.org/0000-0003-0548-9637,4,University of Science and Technology of China, China
@@ -1866,7 +1723,7 @@ https://openalex.org/A5034669305,Olga Lucía Pedraza,None,38,Fundación Universi
 https://openalex.org/A5003752048,Ximena Lucía Pedraza Nájar,None,10,Military University Nueva Granada, Colombia
 https://openalex.org/A5021669257,Lucía Pedraza,https://orcid.org/0000-0003-0304-4378,8,Instituto de Física La Plata, Argentina
 https://openalex.org/A5062393120,Ximena Lucía Pedraza-Nájar,https://orcid.org/0000-0003-0414-0636,5,Production Development Corporation, Chile
-https://openalex.org/A5037275568,Olga Lucia Pedraza Linarès,None,3,Colciencias, Colombia
+https://openalex.org/A5037275568,Olga Lucía Pedraza Linares,None,3,Colciencias, Colombia
 https://openalex.org/A5069210633,Olga Lucía Pedraza-Linares,None,2,Hospital Universitario Infantil San José, Colombia
 https://openalex.org/A5029204581,Ana Lucía Pedraza Maigua,None,1,None
 https://openalex.org/A5031600732,Pablo Balenzuela,https://orcid.org/0000-0002-8581-4892,74,University of Buenos Aires, Argentina
@@ -2017,7 +1874,7 @@ https://openalex.org/A5093942484,Stefan Katzenburg,None,0,None
 https://openalex.org/A5031702972,Hugo Subtil,None,3,None
 https://openalex.org/A5005519980,Arnault Chatelain,https://orcid.org/0009-0002-6450-2176,3,Institut Polytechnique de Paris, France
 https://openalex.org/A5092581983,Felix Lennert,None,1,Computer Science Laboratory of the École Polytechnique, France
-https://openalex.org/A5022704573,Étienne Ollion,https://orcid.org/0000-0003-3099-5240,132,Institut Polytechnique de Paris, France
+https://openalex.org/A5022704573,Étienne Ollion,https://orcid.org/0000-0003-3099-5240,132,École Polytechnique, France
 https://openalex.org/A5070576506,Etienne Ollion,None,2,None
 https://openalex.org/A5052766993,Ruimin Shen,https://orcid.org/0000-0002-5536-1351,233,Wuhan University, China
 https://openalex.org/A5077634022,Rubing Shen,https://orcid.org/0000-0002-5504-6108,5,Institut Polytechnique de Paris, France
@@ -2042,10 +1899,10 @@ https://openalex.org/A5016058214,PAWEŁ JUREK,None,1,None
 https://openalex.org/A5086066629,Magdalena Formanowicz,https://orcid.org/0000-0001-5859-7100,65,University of Bern, Switzerland
 https://openalex.org/A5037376616,Lin Yi,https://orcid.org/0000-0002-7975-1901,302,Nantong University, China
 https://openalex.org/A5042159546,Yu‐Ru Lin,https://orcid.org/0000-0002-8497-3015,235,National Chi Nan University, Taiwan, Province of China
-https://openalex.org/A5019047303,Yuru Liu,None,183,University of Chinese Academy of Sciences, China
+https://openalex.org/A5019047303,Yuru Liu,https://orcid.org/0000-0003-4909-7782,183,University of Chinese Academy of Sciences, China
 https://openalex.org/A5051911660,Yuning Liao,https://orcid.org/0009-0001-1341-0493,122,Nanjing Tech University, China
 https://openalex.org/A5016506973,Yuru Li,None,117,Chinese PLA General Hospital, China
-https://openalex.org/A5031928133,Yueh‐Chien Lin,https://orcid.org/0000-0002-8997-2708,60,Tunghai University, Taiwan, Province of China
+https://openalex.org/A5031928133,Yueh‐Chien Lin,https://orcid.org/0000-0002-8997-2708,60,Boston Children's Hospital, USA
 https://openalex.org/A5064516862,Yuru Liang,None,18,Chinese Academy of Sciences, China
 https://openalex.org/A5033616192,LI Yuru,None,7,Institute for Sustainable Development, Ethiopia
 https://openalex.org/A5057234916,Yu-Ru Li,https://orcid.org/0000-0001-7640-7892,6,Baoji University of Arts and Sciences, China
@@ -2086,15 +1943,15 @@ https://openalex.org/A5079991243,Ziwen Chen,https://orcid.org/0000-0002-7286-337
 https://openalex.org/A5027578389,Ziwen Cheng,None,4,Zhejiang University of Technology, China
 https://openalex.org/A5032732026,Ziwen Cheng,None,3,Nanjing University of Science and Technology, China
 https://openalex.org/A5032169990,Z.-W. Chen,None,3,Wuhan University of Science and Technology, China
-https://openalex.org/A5003121162,Amir Goldberg,https://orcid.org/0000-0002-0858-3058,72,Vanda Pharmaceuticals (United States), USA
+https://openalex.org/A5003121162,Amir Goldberg,https://orcid.org/0000-0002-0858-3058,72,Stanford University, USA
 https://openalex.org/A5021092418,Amir Goldberg,None,4,Hebrew University of Jerusalem, Israel
 https://openalex.org/A5011368152,Aidan Combs,https://orcid.org/0000-0003-1955-3572,7,Duke University, USA
 https://openalex.org/A5070753993,Maximilian Schich,https://orcid.org/0000-0002-6753-7334,36,Tallinn University, Estonia
 https://openalex.org/A5063195905,Maximilian Schich,None,9,Leonardo (United Kingdom), UK
 https://openalex.org/A5057023462,Maximilian Schicher,None,8,Medical University of Graz, Austria
 https://openalex.org/A5071494346,Xinglong Xu,https://orcid.org/0000-0002-1309-6940,143,Jimei University, China
-https://openalex.org/A5044649083,Xinwei Xu,https://orcid.org/0000-0001-8717-1811,126,Southern University of Science and Technology, China
-https://openalex.org/A5069504559,Xiangning Xu,https://orcid.org/0000-0002-9184-1571,75,Chongqing Bureau of Geology and Minerals Exploration, China
+https://openalex.org/A5044649083,Xinwei Xu,https://orcid.org/0000-0001-8717-1811,126,Nanjing Tech University, China
+https://openalex.org/A5069504559,Xiangning Xu,https://orcid.org/0000-0002-9184-1571,75,Xuzhou Central Hospital, China
 https://openalex.org/A5040543680,Xiaoni Xu,https://orcid.org/0009-0003-0583-8873,47,Hangzhou Dianzi University, China
 https://openalex.org/A5041886694,Xinwei Xue,https://orcid.org/0000-0003-0082-3034,42,Dalian University of Technology, China
 https://openalex.org/A5031730164,Xing Xu,None,30,Eindhoven University of Technology, Netherlands
@@ -2176,7 +2033,7 @@ https://openalex.org/A5029563445,Syed Muhammad Sajid Siraj,None,3,Institute of B
 https://openalex.org/A5090416319,Syed Muhammad Sajid Siraj Nadia Kaleem,None,1,None
 https://openalex.org/A5035811517,Fusheng Pan,https://orcid.org/0000-0002-4941-1295,1597,Chongqing University, China
 https://openalex.org/A5014960517,Huan Pang,https://orcid.org/0000-0002-1946-1769,796,Jilin University, China
-https://openalex.org/A5048888033,Cheng Pan,https://orcid.org/0000-0002-5338-5325,376,Zhejiang University of Technology, China
+https://openalex.org/A5048888033,Cheng Pan,https://orcid.org/0000-0002-5338-5325,376,Jiangsu Province Hospital, China
 https://openalex.org/A5008216048,Zhijuan Pan,https://orcid.org/0000-0001-9744-0720,202,Soochow University, China
 https://openalex.org/A5042680045,Min Cheng Pan,https://orcid.org/0000-0002-5134-8205,194,Macau University of Science and Technology, Macao
 https://openalex.org/A5076432479,Jun Pan,https://orcid.org/0000-0003-0161-9465,192,Zhejiang University of Finance and Economics, China
@@ -2343,7 +2200,7 @@ https://openalex.org/A5004031189,Sahil Loomba,https://orcid.org/0000-0002-8547-4
 https://openalex.org/A5063992798,Ali A. Yassine,None,125,University of Toronto, Canada
 https://openalex.org/A5077365916,Ali El-Zaart,https://orcid.org/0000-0002-1240-3785,102,Beirut Arab University, Lebanon
 https://openalex.org/A5009175905,Nuha Yassin,None,95,New Cross Hospital, UK
-https://openalex.org/A5079753964,Ali Yassin,https://orcid.org/0000-0002-3047-9863,69,Institut des Sciences et Technologies Moléculaires d'Angers, France
+https://openalex.org/A5079753964,Ali Yassin,https://orcid.org/0000-0002-3047-9863,69,Lebanese American University, Lebanon
 https://openalex.org/A5056221045,Ali A. Yassin,None,37,University of Basrah, Iraq
 https://openalex.org/A5065544682,Ali Yassin Sheikh Ali,None,28,SIMAD University, Somalia
 https://openalex.org/A5023795899,Adel Ali Yassin Alzyoud,None,23,Applied Science University, Bahrain
@@ -2430,7 +2287,7 @@ https://openalex.org/A5090751079,Yoshida Mitsuo,None,2,None
 https://openalex.org/A5025113948,Mitsuo Yoshida,None,2,None
 https://openalex.org/A5054716820,Waldomiro Mitsuo Yoshida,None,2,None
 https://openalex.org/A5012164081,Haoning Xue,https://orcid.org/0000-0003-3756-6385,10,University of California, Davis, USA
-https://openalex.org/A5072732141,Jingwen Zhang,https://orcid.org/0000-0003-4519-5502,1520,Chongqing University, China
+https://openalex.org/A5072732141,Jingwen Zhang,https://orcid.org/0000-0003-4519-5502,1520,Shanghai University, China
 https://openalex.org/A5078349818,Jingwen Zhang,https://orcid.org/0000-0002-3264-3014,69,Sun Yat-sen University, China
 https://openalex.org/A5049994227,Jingwen Zhang,https://orcid.org/0000-0002-1420-7569,47,China People's Public Security University, China
 https://openalex.org/A5046504714,Jingwen Zhang,https://orcid.org/0000-0003-1733-6857,24,University of California, Davis, USA
@@ -2510,22 +2367,22 @@ https://openalex.org/A5074722895,Avi Gamoran,https://orcid.org/0000-0002-8559-59
 https://openalex.org/A5079662533,Michael Gilead,https://orcid.org/0000-0002-7009-5223,51,Ben-Gurion University of the Negev, Israel
 https://openalex.org/A5073703860,M. Gileadi,None,9,None
 https://openalex.org/A5017100408,Ké Li,https://orcid.org/0000-0001-7200-4244,6002,Merchants Chongqing Communications Research and Design Institute, China
-https://openalex.org/A5020286464,Ke Liu,https://orcid.org/0000-0001-8151-4326,3633,Lanzhou Petrochemical Polytechnic, China
+https://openalex.org/A5020286464,Ke Liu,https://orcid.org/0000-0001-8151-4326,3633,Chongqing University of Posts and Telecommunications, China
 https://openalex.org/A5046943783,K. Sung,None,1468,University of California, San Diego, USA
 https://openalex.org/A5077595112,Kwei-Jay Lin,https://orcid.org/0000-0003-3675-9054,1052,Guilin University of Electronic Technology, China
 https://openalex.org/A5067046252,Kelin Wang,https://orcid.org/0000-0001-8218-5368,937,Institute of Subtropical Agriculture, China
-https://openalex.org/A5007754802,Yan Ke,https://orcid.org/0000-0001-6124-4242,837,Dalian Medical University, China
+https://openalex.org/A5007754802,Yan Ke,https://orcid.org/0000-0001-6124-4242,837,Shenzhen Technology University, China
 https://openalex.org/A5046092151,Wang Liu,https://orcid.org/0000-0002-1667-6617,665,Guang’anmen Hospital, China
 https://openalex.org/A5087197441,Keli Han,https://orcid.org/0000-0001-9239-1827,552,Dalian Institute of Chemical Physics, China
 https://openalex.org/A5088338818,Jianke Li,https://orcid.org/0000-0002-7022-6895,455,Shanghai Institute of Hematology, China
 https://openalex.org/A5016580028,Kebin Liu,https://orcid.org/0000-0003-1965-7240,452,National Cancer Center of Georgia, Georgia
-https://openalex.org/A5022012224,Wei Huang,https://orcid.org/0000-0002-1071-1055,2451,Northwestern Polytechnical University, China
+https://openalex.org/A5022012224,Wei Huang,https://orcid.org/0000-0002-1071-1055,2451,Nanjing University of Posts and Telecommunications, China
 https://openalex.org/A5065499122,Hua Ye,https://orcid.org/0000-0002-5518-5255,1956,Hainan Normal University, China
-https://openalex.org/A5074447759,Jianxing He,https://orcid.org/0000-0003-1737-8192,1683,China University of Mining and Technology, China
+https://openalex.org/A5074447759,Jianxing He,https://orcid.org/0000-0003-1737-8192,1683,First Affiliated Hospital of Soochow University, China
 https://openalex.org/A5083181758,Yudong Huang,https://orcid.org/0000-0003-3825-2230,1345,Harbin Institute of Technology, China
 https://openalex.org/A5032612009,Jie Huang,https://orcid.org/0000-0001-9815-5825,1332,Chinese University of Hong Kong, China
 https://openalex.org/A5059078547,Jun‐Jie Zhu,https://orcid.org/0000-0002-8201-1285,656,Jiangsu Food and Pharmaceutical Science College, China
-https://openalex.org/A5057374638,Jie Yan,https://orcid.org/0000-0003-2040-5964,649,Central University of Finance and Economics, China
+https://openalex.org/A5057374638,Jie Yan,https://orcid.org/0000-0003-2040-5964,649,Shenzhen Second People's Hospital, China
 https://openalex.org/A5041722972,Jie He,https://orcid.org/0000-0001-5885-0516,585,Chinese Academy of Medical Sciences & Peking Union Medical College, China
 https://openalex.org/A5042570887,Jin Xie,https://orcid.org/0000-0002-4397-1670,539,Southwest Jiaotong University, China
 https://openalex.org/A5060844091,Hua Yang,https://orcid.org/0000-0001-7418-578X,529,Lanzhou University of Technology, China
@@ -2594,7 +2451,7 @@ https://openalex.org/A5044719940,Emma Hoes,None,3,University of Zurich, Switzerl
 https://openalex.org/A5009022455,Emma Hoes,None,2,Delft University of Technology, Netherlands
 https://openalex.org/A5044421492,Peidong Mei,None,3,University of South Carolina Lancaster, USA
 https://openalex.org/A5064941531,Peidong Mei,https://orcid.org/0000-0001-9015-8159,1,None
-https://openalex.org/A5071525137,Ştefan Sarkadi,https://orcid.org/0000-0003-3999-528X,23,King's College London, UK
+https://openalex.org/A5071525137,Ṣtefan Sarkadi,https://orcid.org/0000-0003-3999-528X,23,King's College London, UK
 https://openalex.org/A5067319603,Reid McIlroy-Young,None,10,University of Toronto, Canada
 https://openalex.org/A5014311706,Reid McIlroy-Young,None,2,University of Chicago, USA
 https://openalex.org/A5050252738,Siddhartha Sen,https://orcid.org/0000-0003-0337-4879,344,Trinity College Dublin, Ireland
@@ -2607,7 +2464,7 @@ https://openalex.org/A5084190473,Siddhartha Sen,https://orcid.org/0000-0003-4272
 https://openalex.org/A5062062273,Siddhartha Sengupta,https://orcid.org/0009-0002-5047-9147,10,Medical College and Hospital, Kolkata, India
 https://openalex.org/A5079286951,Siddhartha SenGupta,None,10,Tata Consultancy Services (India), India
 https://openalex.org/A5046486925,Siddhartha Sengupta,https://orcid.org/0000-0003-0041-3465,5,Medical College and Hospital, Kolkata, India
-https://openalex.org/A5071261828,James E. Evans,https://orcid.org/0000-0002-7721-4782,582,Pacific Northwest National Laboratory, USA
+https://openalex.org/A5071261828,James E. Evans,https://orcid.org/0000-0002-7721-4782,582,Paris Junior College, USA
 https://openalex.org/A5047010724,Denis J. Evans,None,511,University of Tennessee at Knoxville, USA
 https://openalex.org/A5011278300,James W. Evans,https://orcid.org/0000-0002-5806-3720,454,Ames National Laboratory, USA
 https://openalex.org/A5045143686,James J. Evans,None,392,Neurological Surgery, USA
@@ -2638,7 +2495,7 @@ https://openalex.org/A5031098425,Marta González‐Vicent,None,110,Hospital Infa
 https://openalex.org/A5072301103,Marta González-Freire,https://orcid.org/0000-0001-9741-2826,101,Health Research Institute of the Balearic Islands, Spain
 https://openalex.org/A5076767403,M. González,None,93,AstraZeneca (Spain), Spain
 https://openalex.org/A5060180402,Marta González-Warleta,https://orcid.org/0000-0003-3315-5757,83,Xunta de Galicia, Spain
-https://openalex.org/A5040564140,Marta González del Tánago,None,78,Universidad Politécnica de Madrid, Spain
+https://openalex.org/A5040564140,Marta Gonzalez del Tánago,None,78,Universidad Politécnica de Madrid, Spain
 https://openalex.org/A5058670333,Armando Bazzani,https://orcid.org/0000-0002-9633-0017,202,INFN Sezione di Bologna, Italy
 https://openalex.org/A5071367873,K. Sparks,None,113,Oak Ridge National Laboratory, USA
 https://openalex.org/A5038999493,Kevin Sparks,https://orcid.org/0000-0002-0340-8090,46,Oak Ridge National Laboratory, USA
@@ -2659,6 +2516,7 @@ https://openalex.org/A5048314509,Marie Urban,None,2,Centre Marc Bloch, Germany
 https://openalex.org/A5001338204,Gautam Thakur,https://orcid.org/0000-0002-8341-4596,100,Geospatial Research (United Kingdom), UK
 https://openalex.org/A5060138141,Gautam Thakur,https://orcid.org/0000-0001-8644-7935,1,None
 https://openalex.org/A5077745776,Astrid Gühnemann,https://orcid.org/0000-0002-6425-5868,55,University of Natural Resources and Life Sciences, Vienna, Austria
+https://openalex.org/A5093971461,Yan Asadchy,https://orcid.org/0000-0002-6473-6709,0,None
 https://openalex.org/A5093939343,Yan Asadchy,None,0,None
 https://openalex.org/A5051114853,Ollie Ballinger,None,2,University College London, UK
 https://openalex.org/A5077619058,Ollie Ballinger,https://orcid.org/0000-0002-9092-2775,1,University of Oxford, UK
@@ -2700,7 +2558,7 @@ https://openalex.org/A5067768666,Mohsen Bahrami Panah,None,7,Paul Scherrer Insti
 https://openalex.org/A5084240661,Bahrami Mohsen,None,4,University of Tehran, Iran, Islamic Republic of
 https://openalex.org/A5034365403,Mohsen Bahraminia,None,3,University of Tehran, Iran, Islamic Republic of
 https://openalex.org/A5046093235,Mohsen Bahrami,None,2,Islamic Azad University, Malayer Branch, Iran, Islamic Republic of
-https://openalex.org/A5043347770,Selim Balcısoy,https://orcid.org/0000-0002-6495-7341,119,Sabancı University, Turkey
+https://openalex.org/A5043347770,Selim Balcısoy,https://orcid.org/0000-0002-6495-7341,119,Sabancı Üniversitesi, Turkey
 https://openalex.org/A5029225859,Sanggoo Kang,None,41,Kyungpook National University, Korea, Republic of
 https://openalex.org/A5019019305,SANGGOO KANG,None,1,None
 https://openalex.org/A5053747920,Sanggoo Kang,https://orcid.org/0000-0001-8777-1550,1,None
@@ -2744,7 +2602,7 @@ https://openalex.org/A5074504754,Zhihui Wang,https://orcid.org/0000-0002-1138-84
 https://openalex.org/A5024994504,Zhaohui Wang,https://orcid.org/0000-0003-4357-9780,2629,North West Agriculture and Forestry University, China
 https://openalex.org/A5057490932,Xiaohui Wang,https://orcid.org/0000-0003-2126-1712,2262,China University of Petroleum, East China, China
 https://openalex.org/A5072404159,Lihui Wang,https://orcid.org/0000-0001-8679-8049,1813,KTH Royal Institute of Technology, Sweden
-https://openalex.org/A5032533121,Wenhui Wang,https://orcid.org/0000-0003-0433-0261,1618,Sun Yat-sen University, China
+https://openalex.org/A5032533121,Wenhui Wang,https://orcid.org/0000-0003-0433-0261,1618,Wuyi University, China
 https://openalex.org/A5051094765,Guanghui Wang,https://orcid.org/0000-0003-3182-104X,1538,Xiamen University, China
 https://openalex.org/A5036647389,Minghui Wang,https://orcid.org/0000-0003-3644-7325,1496,Henan University, China
 https://openalex.org/A5011279096,Jianhui Wang,https://orcid.org/0000-0002-4398-4324,1496,Tangshan Gongren Hospital, China
@@ -2771,7 +2629,7 @@ https://openalex.org/A5055878335,Leonardo Ferres,None,1,None
 https://openalex.org/A5043087486,Leonardo Ferres,None,1,None
 https://openalex.org/A5065324733,Leonardo Ferres da Silva Ribeiro,None,1,None
 https://openalex.org/A5053244337,Carlos Rodríguez‐Galindo,https://orcid.org/0000-0002-2360-8946,661,St. Jude Children's Research Hospital, USA
-https://openalex.org/A5025873585,Juan Carlos Rodrı́guez,https://orcid.org/0000-0002-9833-4038,645,Hospital General Universitario de Alicante Doctor Balmis, Spain
+https://openalex.org/A5025873585,Juan Carlos Rodrı́guez,https://orcid.org/0000-0002-9833-4038,645,Hospital Universitario Lucus Augusti, Spain
 https://openalex.org/A5008959349,Carlos Suárez,https://orcid.org/0000-0002-3162-8998,503,Universidad de Oviedo, Spain
 https://openalex.org/A5044210345,E. Carlos Rodríguez-Merchán,https://orcid.org/0000-0002-6360-0113,482,Hospital La Paz Institute for Health Research, Spain
 https://openalex.org/A5058359917,Carlos J. Rodríguez,https://orcid.org/0000-0003-0860-9008,470,CUNY School of Law, USA
@@ -2810,7 +2668,7 @@ https://openalex.org/A5066618841,Lili Miao,None,2,North West Agriculture and For
 https://openalex.org/A5046600787,LiLi Miao,None,1,Changchun University of Science and Technology, China
 https://openalex.org/A5068120489,Lili Miao,https://orcid.org/0000-0003-2731-3069,1,Shandong University of Traditional Chinese Medicine, China
 https://openalex.org/A5038812629,Clara Boothby,https://orcid.org/0000-0003-3359-3431,9,Indiana University, USA
-https://openalex.org/A5065544460,Attila Varga,https://orcid.org/0000-0001-7252-5648,219,Óbuda University, Hungary
+https://openalex.org/A5065544460,Attila Varga,https://orcid.org/0000-0001-7252-5648,219,Eötvös Loránd University, Hungary
 https://openalex.org/A5087625503,Attila Varga,https://orcid.org/0000-0002-0659-3551,117,Eötvös Loránd University, Hungary
 https://openalex.org/A5071498996,Richard A. Varga,https://orcid.org/0000-0002-0011-8469,94,Babeș-Bolyai University, Romania
 https://openalex.org/A5079773434,Attila Varga,None,44,Semmelweis University, Hungary
@@ -2848,7 +2706,7 @@ https://openalex.org/A5036743939,Qiang Zhu,https://orcid.org/0000-0002-1243-2391
 https://openalex.org/A5059358267,Yang Ren,https://orcid.org/0000-0001-9831-6035,1753,Hebei University of Technology, China
 https://openalex.org/A5016049048,Shengxiang Ren,https://orcid.org/0000-0001-8767-9850,670,Jilin Agricultural University, China
 https://openalex.org/A5009408707,Xiang Ren,https://orcid.org/0000-0001-8655-663X,488,University of Southern California, USA
-https://openalex.org/A5082454092,Sumei Ren,https://orcid.org/0000-0002-5163-0489,453,Changzhou University, China
+https://openalex.org/A5082454092,Sumei Ren,https://orcid.org/0000-0002-5163-0489,453,Zhengzhou University, China
 https://openalex.org/A5077970092,Hanyun Ren,https://orcid.org/0000-0001-8368-6084,411,Peking University, China
 https://openalex.org/A5029913249,Xiang Ren,https://orcid.org/0000-0002-4321-4282,292,University of Jinan, China
 https://openalex.org/A5082099388,Xi Geng,https://orcid.org/0000-0003-0023-3253,270,Solvay (United States), USA
@@ -2875,7 +2733,7 @@ https://openalex.org/A5033588134,Melvyn Tyloo,https://orcid.org/0000-0003-1761-4
 https://openalex.org/A5046328006,Frank Berthold,https://orcid.org/0000-0002-7613-1723,468,University Hospital Cologne, Germany
 https://openalex.org/A5007507228,Frank Berthold Lehrbass,None,1,None
 https://openalex.org/A5062364819,Christoph Bartenhagen,https://orcid.org/0000-0002-2522-1454,113,University Hospital Cologne, Germany
-https://openalex.org/A5062755510,Qianqian Wang,https://orcid.org/0000-0002-5320-9997,7644,Anhui University of Science and Technology, China
+https://openalex.org/A5062755510,Qianqian Wang,https://orcid.org/0000-0002-5320-9997,7645,Anhui University of Science and Technology, China
 https://openalex.org/A5057490932,Xiaohui Wang,https://orcid.org/0000-0003-2126-1712,2262,China University of Petroleum, East China, China
 https://openalex.org/A5040403651,Xiao Hui Wang,https://orcid.org/0000-0002-7640-2247,393,Xinjiang University, China
 https://openalex.org/A5054349248,Xiaohui Wang,https://orcid.org/0000-0002-3353-3140,317,Ludong University, China
@@ -2895,7 +2753,7 @@ https://openalex.org/A5045781240,Han Zheng,https://orcid.org/0000-0003-4032-4299
 https://openalex.org/A5014768126,Zhiwei Han,https://orcid.org/0000-0002-5623-1225,295,University of Chinese Academy of Sciences, China
 https://openalex.org/A5021087873,Yan Zheng,https://orcid.org/0009-0000-9122-4621,287,First Affiliated Hospital of Henan University, China
 https://openalex.org/A5028470602,Zhi‐Yong Han,https://orcid.org/0000-0002-9225-5064,248,Xinjiang University, China
-https://openalex.org/A5072742103,Jiaming Zhu,https://orcid.org/0000-0001-7819-9345,98,Hong Kong Polytechnic University, Hong Kong
+https://openalex.org/A5072742103,Jiaming Zhu,https://orcid.org/0000-0001-7819-9345,98,Northwest University, China
 https://openalex.org/A5049134847,Jonathan J. H. Zhu,https://orcid.org/0000-0001-6173-6941,91,City University of Hong Kong, Hong Kong
 https://openalex.org/A5017697784,Jonathan J. Zhu,None,49,The University of Texas Southwestern Medical Center, USA
 https://openalex.org/A5043365910,Jonathan Zhu,None,5,Wilson Sonsini Goodrich & Rosati, USA
@@ -2927,8 +2785,8 @@ https://openalex.org/A5093448497,Ilona Horwath,None,1,None
 https://openalex.org/A5009770553,Shweta Tripathi,https://orcid.org/0000-0002-3310-918X,114,Motilal Nehru National Institute of Technology, India
 https://openalex.org/A5070072188,Saumya Tripathi,https://orcid.org/0000-0001-6411-5470,11,Binghamton University, USA
 https://openalex.org/A5055016014,Saumya Tripathi Bajpai,None,3,GLA University, India
-https://openalex.org/A5059940742,Saumya Tripathi,None,2,Dr. A.P.J. Abdul Kalam Technical University, India
 https://openalex.org/A5036497989,Saumya tripathi,None,2,National Institute of Technology Kurukshetra, India
+https://openalex.org/A5059940742,Saumya Tripathi,None,2,Dr. A.P.J. Abdul Kalam Technical University, India
 https://openalex.org/A5048021302,Telmo Menezes,https://orcid.org/0000-0001-7204-6428,25,Centre Marc Bloch, Germany
 https://openalex.org/A5036560330,Telmo de Lucena Torres de Menezes,None,2,None
 https://openalex.org/A5053148541,Antonin Pottier,https://orcid.org/0000-0003-2890-9585,111,Centre Marc Bloch, Germany
@@ -2991,15 +2849,15 @@ https://openalex.org/A5092504019,Nanyun Peng,https://orcid.org/0000-0002-8509-65
 https://openalex.org/A5030156276,Jinjun Xiong,https://orcid.org/0000-0002-2620-4859,371,Xi'an Polytechnic University, China
 https://openalex.org/A5050103088,Jie Xiong,https://orcid.org/0000-0001-7938-0402,116,China University of Political Science and Law, China
 https://openalex.org/A5067997968,Jinjun Xiong,None,11,Brown University, USA
-https://openalex.org/A5003642180,Yan Wang,https://orcid.org/0000-0002-5344-1884,29967,Southeast University, China
+https://openalex.org/A5003642180,Yan Wang,https://orcid.org/0000-0002-5344-1884,29967,Xi'an Shiyou University, China
 https://openalex.org/A5037677450,Jing Wang,https://orcid.org/0000-0002-1246-991X,26661,Hebei Food Inspection and Research Institute, China
 https://openalex.org/A5055838753,Chao Wang,https://orcid.org/0000-0003-2809-8049,14643,Shanghai Jiao Tong University, China
 https://openalex.org/A5058380236,Dan Wang,https://orcid.org/0000-0002-8230-6243,8182,Oil Crops Research Institute, China
-https://openalex.org/A5062755510,Qianqian Wang,https://orcid.org/0000-0002-5320-9997,7644,Anhui University of Science and Technology, China
-https://openalex.org/A5017917541,Yangyang Wang,https://orcid.org/0000-0003-3604-1640,1813,Beijing University of Chemical Technology, China
+https://openalex.org/A5062755510,Qianqian Wang,https://orcid.org/0000-0002-5320-9997,7645,Anhui University of Science and Technology, China
+https://openalex.org/A5017917541,Yangyang Wang,https://orcid.org/0000-0003-3604-1640,1813,South China University of Technology, China
 https://openalex.org/A5074637852,Haiyang Wang,https://orcid.org/0000-0002-1302-5747,1713,Henan Agricultural University, China
 https://openalex.org/A5011355109,Xiaoyang Wang,https://orcid.org/0000-0001-9717-8160,1590,University of Shanghai for Science and Technology, China
-https://openalex.org/A5033822228,Yanfang Wang,https://orcid.org/0000-0002-4926-6868,1379,Huazhong Agricultural University, China
+https://openalex.org/A5033822228,Yanfang Wang,https://orcid.org/0000-0002-4926-6868,1379,West China Hospital of Sichuan University, China
 https://openalex.org/A5076702481,Xiangyang Wang,https://orcid.org/0000-0002-3907-0618,1326,Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University, China
 https://openalex.org/A5007979110,Giyeon Baek,None,3,Ewha Womans University, Korea, Republic of
 https://openalex.org/A5030008059,Enshu Cheng,None,1,None
@@ -3061,7 +2919,7 @@ https://openalex.org/A5022710598,James Winters,None,3,None
 https://openalex.org/A5022775458,James C Winters,None,2,None
 https://openalex.org/A5002133453,Brandon James Winters,None,2,University of Minnesota, USA
 https://openalex.org/A5080677820,James M. Winters,None,2,Advocate Christ Medical Center, USA
-https://openalex.org/A5064735018,Niccoló Pescetelli,https://orcid.org/0000-0002-8826-2202,52,New Jersey Institute of Technology, USA
+https://openalex.org/A5064735018,Niccolò Pescetelli,https://orcid.org/0000-0002-8826-2202,52,New Jersey Institute of Technology, USA
 https://openalex.org/A5008862185,Federico Pilati,None,12,IULM University, Italy
 https://openalex.org/A5088309672,Oriol Artime,https://orcid.org/0000-0002-2591-0399,28,Universitat de Barcelona, Spain
 https://openalex.org/A5049839640,Oriol Artime Vila,None,2,None
@@ -3091,7 +2949,7 @@ https://openalex.org/A5051359676,Ivan Savin,None,2,None
 https://openalex.org/A5079949070,Hyeseung Shim,None,1,Korea Advanced Institute of Science and Technology, Korea, Republic of
 https://openalex.org/A5057596349,Ji Hoon Kim,https://orcid.org/0000-0003-2430-3869,1584,Chung-Ang University, Korea, Republic of
 https://openalex.org/A5037234320,Jihoon Kim,https://orcid.org/0000-0003-0861-7833,1556,Catholic University of Korea, Korea, Republic of
-https://openalex.org/A5042627473,Jihoon Kim,https://orcid.org/0000-0003-3822-1792,110,Muroran Institute of Technology, Japan
+https://openalex.org/A5042627473,Jihoon Kim,https://orcid.org/0000-0003-3822-1792,110,Seoul National University, Korea, Republic of
 https://openalex.org/A5055501834,Ji-Hoon Kim,https://orcid.org/0000-0002-6349-6950,108,Seoul National University Hospital, Korea, Republic of
 https://openalex.org/A5058448269,Jihoon Kim,https://orcid.org/0000-0002-6919-446X,99,Samsung Medical Center, Korea, Republic of
 https://openalex.org/A5025221241,Jihoon Kim,https://orcid.org/0009-0001-0553-8278,97,Chung-Ang University, Korea, Republic of
@@ -3134,7 +2992,7 @@ https://openalex.org/A5078311188,Huiyi Lv,None,11,Second Affiliated Hospital of 
 https://openalex.org/A5066327228,Huiyi Lv,None,2,Lanzhou University of Technology, China
 https://openalex.org/A5002441008,Stephen G. Davies,https://orcid.org/0000-0003-3181-8748,1058,University of Oxford, UK
 https://openalex.org/A5060895838,Stephen Davies,None,314,UCL Australia, Australia
-https://openalex.org/A5080638932,Jonathan S. Davies,https://orcid.org/0000-0002-6920-4031,253,St Mary's Hospital, UK
+https://openalex.org/A5080638932,Jonathan S. Davies,https://orcid.org/0000-0002-6920-4031,253,De Montfort University, UK
 https://openalex.org/A5026693454,G. S. Davies,https://orcid.org/0000-0002-4289-3439,246,University of Portsmouth, UK
 https://openalex.org/A5008665794,Stephen Davies,None,233,University of Auckland, New Zealand
 https://openalex.org/A5053822172,Sean S. Davies,https://orcid.org/0000-0001-9879-8062,201,Vanderbilt University, USA
@@ -3187,13 +3045,13 @@ https://openalex.org/A5074385190,A. Rogers,None,8,University of Southern Califor
 https://openalex.org/A5014396099,B. Rogers,None,7,University of Georgia, USA
 https://openalex.org/A5010147805,Anna A. Rogers,None,5,Emory University, USA
 https://openalex.org/A5041340493,Anna C. Rogers,None,5,Louisiana State University Health Sciences Center Shreveport, USA
-https://openalex.org/A5001776791,Y. K. Heng,https://orcid.org/0009-0005-2606-7750,1002,Australian National University, Australia
+https://openalex.org/A5001776791,Y. K. Heng,https://orcid.org/0009-0005-2606-7750,1002,City University of Hong Kong, Shenzhen Research Institute, China
 https://openalex.org/A5049098969,Kai He,https://orcid.org/0000-0001-7461-2948,837,Xi'an Institute of Optics and Precision Mechanics, China
 https://openalex.org/A5076005692,Yulong He,https://orcid.org/0000-0002-1902-0963,742,Shanxi Agricultural University, China
 https://openalex.org/A5071761464,Jinliang He,https://orcid.org/0000-0002-4458-5026,658,Southwest Petroleum University, China
 https://openalex.org/A5077462427,Kongwang He,https://orcid.org/0000-0003-0508-8411,478,Jiangnan University, China
 https://openalex.org/A5054306467,Qingbo He,https://orcid.org/0000-0002-9184-9063,414,Shanghai Jiao Tong University, China
-https://openalex.org/A5078064595,Kyung‐Soo Yang,https://orcid.org/0000-0002-7176-4935,409,Southeast University, China
+https://openalex.org/A5078064595,Kyung–Soo Yang,https://orcid.org/0000-0002-7176-4935,409,Southeast University, China
 https://openalex.org/A5032638226,Hongbo He,https://orcid.org/0000-0001-8074-746X,405,University of Chinese Academy of Sciences, China
 https://openalex.org/A5052969827,Yedong He,https://orcid.org/0000-0002-5242-9293,351,University of Science and Technology Beijing, China
 https://openalex.org/A5073727032,Kai He,https://orcid.org/0000-0002-1041-0738,319,Yunnan University, China
@@ -3201,7 +3059,7 @@ https://openalex.org/A5002614008,Qinghong Meng,https://orcid.org/0000-0001-9632-
 https://openalex.org/A5026062073,Q. Meng,None,8,Baidu (China), China
 https://openalex.org/A5002318539,Xiao Zhang,https://orcid.org/0000-0001-9534-5981,5547,Shandong Academy of Agricultural Sciences, China
 https://openalex.org/A5006829574,Xiaoxiao Zhang,https://orcid.org/0000-0002-5447-3394,1311,Xi'an Jiaotong University, China
-https://openalex.org/A5022439109,Chunxiao Zhang,https://orcid.org/0000-0001-5056-6414,730,Tianjin University, China
+https://openalex.org/A5022439109,Chunxiao Zhang,https://orcid.org/0000-0001-5056-6414,730,Shandong University, China
 https://openalex.org/A5090508999,Dongxiao Zhang,https://orcid.org/0000-0001-6930-5994,564,Peng Cheng Laboratory, China
 https://openalex.org/A5064703568,Zhijian Xiao,https://orcid.org/0000-0002-1099-4489,560,Nanning Normal University, China
 https://openalex.org/A5083427382,Xiao Zhang,https://orcid.org/0000-0003-3917-7068,497,University of Chinese Academy of Sciences, China
@@ -3257,7 +3115,7 @@ https://openalex.org/A5037421018,Somya Tomar,None,1,Sharda University, India
 https://openalex.org/A5023223415,Somya Tomar,None,1,None
 https://openalex.org/A5073029056,Divya Saini,None,21,Symbiosis International University, India
 https://openalex.org/A5010045638,Fabian Braesemann,https://orcid.org/0000-0002-7671-1920,54,University of Oxford, UK
-https://openalex.org/A5022073192,В. А. Воскресенский,https://orcid.org/0000-0001-7284-8527,16,Weizenbaum Institute for the Networked Society, Germany
+https://openalex.org/A5022073192,В. А. Воскресенский,https://orcid.org/0000-0001-7284-8527,16,Weizenbaum Institute, Germany
 https://openalex.org/A5034410008,Paulina Bondaronek,https://orcid.org/0000-0003-0096-1234,21,Department of Health and Social Care, UK
 https://openalex.org/A5029712156,Daniela S. Valdes,https://orcid.org/0000-0002-1309-5147,11,Max Delbrück Center for Molecular Medicine, Germany
 https://openalex.org/A5013398154,Daniela Valdes,https://orcid.org/0000-0002-3489-8408,8,Coventry (United Kingdom), UK
@@ -3346,7 +3204,7 @@ https://openalex.org/A5033720956,Timothy E.L. Douglas,https://orcid.org/0000-000
 https://openalex.org/A5086282301,Timothy O. White,None,55,University of Edinburgh, UK
 https://openalex.org/A5000788653,Tim D. Aumann,None,53,Florey Institute of Neuroscience and Mental Health, Australia
 https://openalex.org/A5051729957,Timothy D. Peters,https://orcid.org/0000-0001-5644-5402,51,University of the Sunshine Coast, Australia
-https://openalex.org/A5057506906,Timothy D. Colgan,None,35,Baker IDI Heart and Diabetes Institute, Australia
+https://openalex.org/A5057506906,Timothy D. Colgan,None,35,Baker Heart and Diabetes Institute, Australia
 https://openalex.org/A5078991695,Timothy D. Goodman,None,24,L-3 Communications (United States), USA
 https://openalex.org/A5062979409,Timothy D. Hall,None,21,Faraday Technology (United States), USA
 https://openalex.org/A5069087066,T.D. Tuttle,None,17,Massachusetts Institute of Technology, USA
@@ -3397,9 +3255,9 @@ https://openalex.org/A5012661508,Sujan Dutta,https://orcid.org/0000-0003-0685-86
 https://openalex.org/A5065820472,Beibei Li,https://orcid.org/0000-0002-9448-483X,1002,Beijing University of Technology, China
 https://openalex.org/A5019010418,Yamin Li,https://orcid.org/0000-0003-2406-4570,809,Chinese Academy of Medical Sciences & Peking Union Medical College, China
 https://openalex.org/A5011859684,Beibei Liu,https://orcid.org/0000-0003-3788-018X,777,Nanjing University, China
-https://openalex.org/A5029906760,Beibei Liang,https://orcid.org/0000-0002-1559-9445,300,Southern Medical University, China
+https://openalex.org/A5029906760,Beibei Liang,https://orcid.org/0000-0002-1559-9445,300,Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, China
 https://openalex.org/A5022641469,Bor‐Shyh Lin,https://orcid.org/0000-0001-7215-5376,236,Hangzhou Dianzi University, China
-https://openalex.org/A5088506871,Bin Lin,https://orcid.org/0000-0003-1309-3480,219,Xiamen University, China
+https://openalex.org/A5088506871,Bin Lin,https://orcid.org/0000-0003-1309-3480,219,University of California, Irvine, USA
 https://openalex.org/A5068776211,Beibei Liang,https://orcid.org/0000-0002-5363-6315,97,Shanghai University of Medicine and Health Sciences, China
 https://openalex.org/A5085536657,Beibei Liu,https://orcid.org/0000-0001-5830-3619,42,China University of Petroleum, East China, China
 https://openalex.org/A5016858587,Beibei Li,https://orcid.org/0000-0002-3557-5627,38,PLA 306 Hospital, China
@@ -3476,15 +3334,15 @@ https://openalex.org/A5049141783,YiYan Zhang,None,1,None
 https://openalex.org/A5045180115,YiYan Zhang,None,1,Anhui Normal University, China
 https://openalex.org/A5084562551,Yiyan ZHANG,None,1,Sichuan University, China
 https://openalex.org/A5087592842,Meng Li,https://orcid.org/0000-0002-8320-5241,10246,Henan University, China
-https://openalex.org/A5057055806,Qiang Liu,https://orcid.org/0000-0001-9651-1160,7749,Institute of Engineering Thermophysics, China
+https://openalex.org/A5057055806,Qiang Liu,https://orcid.org/0000-0001-9651-1160,7749,Chongqing University, China
 https://openalex.org/A5065243448,Qin Wang,https://orcid.org/0000-0002-2149-384X,4352,Harbin Normal University, China
 https://openalex.org/A5075080019,Qin Li,https://orcid.org/0000-0003-1229-9698,3695,Central South University, China
 https://openalex.org/A5071375088,Qin Liu,https://orcid.org/0000-0002-9896-3774,3125,Central South University, China
 https://openalex.org/A5008497740,Qi Guo,https://orcid.org/0000-0003-4188-6883,1787,Henan Normal University, China
 https://openalex.org/A5005495118,Lin Qi,https://orcid.org/0000-0002-4587-8226,1686,Northwestern Polytechnical University, China
-https://openalex.org/A5001729142,Li Q,https://orcid.org/0000-0002-3934-6004,1544,Sun Yat-sen Memorial Hospital, China
+https://openalex.org/A5001729142,Li Q,https://orcid.org/0000-0002-3934-6004,1544,North University of China, China
 https://openalex.org/A5058853115,Qiyong Gong,https://orcid.org/0000-0002-5912-4871,1336,Shanghai University, China
-https://openalex.org/A5085217990,Liu Q,https://orcid.org/0009-0000-8859-0778,1235,Liaoning Technical University, China
+https://openalex.org/A5085217990,Liu Q,https://orcid.org/0009-0000-8859-0778,1235,University of Toronto, Canada
 https://openalex.org/A5024431719,Ruhao Liu,https://orcid.org/0000-0003-2643-1952,19,Hainan University, China
 https://openalex.org/A5065043404,Ruhao Liu,None,3,University of Electronic Science and Technology of China, China
 https://openalex.org/A5079275442,Xinbin Cheng,https://orcid.org/0000-0002-3855-483X,834,Guangdong-Hongkong-Macau Joint Laboratory of Collaborative Innovation for Environmental Quality, China
@@ -3504,7 +3362,7 @@ https://openalex.org/A5064390226,Guy Zyskind,None,4,Human Media, USA
 https://openalex.org/A5011077465,Beatrice Rammstedt,https://orcid.org/0000-0002-6941-8507,227,GESIS - Leibniz-Institute for the Social Sciences, Germany
 https://openalex.org/A5083550860,Vera Sosnovik,None,3,Université Grenoble Alpes, France
 https://openalex.org/A5035174853,Linda Linda,https://orcid.org/0009-0008-2094-3301,490,Khairun University, Indonesia
-https://openalex.org/A5007626204,Linda Li,https://orcid.org/0000-0001-6280-0511,450,University of British Columbia, Canada
+https://openalex.org/A5007626204,Linda Li,https://orcid.org/0000-0001-6280-0511,450,Research Canada, Canada
 https://openalex.org/A5079316205,Linda M. Liau,None,336,University of California, Los Angeles, USA
 https://openalex.org/A5083104510,Linda Vahala,https://orcid.org/0000-0003-2704-5316,304,Old Dominion University, USA
 https://openalex.org/A5034290978,Linda M. Liao,https://orcid.org/0000-0002-1923-5294,277,Center for Cancer Research, USA
@@ -3518,17 +3376,17 @@ https://openalex.org/A5078032253,Orsolya Vásárhelyi,None,19,Corvinus Universit
 https://openalex.org/A5078249065,Orsolya Vasarhelyi,https://orcid.org/0000-0001-6326-0617,2,None
 https://openalex.org/A5000399565,Corine S. Meppelink,https://orcid.org/0000-0003-2375-9565,24,University of Amsterdam, Netherlands
 https://openalex.org/A5066599847,Liang Zhang,https://orcid.org/0000-0002-9293-5430,9791,Zhejiang University of Technology, China
-https://openalex.org/A5034579880,Fan Li,https://orcid.org/0000-0002-6696-668X,4531,State Key Laboratory of Chemical Engineering, China
+https://openalex.org/A5034579880,Fan Li,https://orcid.org/0000-0002-6696-668X,4531,Jilin University, China
 https://openalex.org/A5033073898,Fan Liu,https://orcid.org/0000-0002-8794-6944,3151,University of Shanghai for Science and Technology, China
 https://openalex.org/A5051489725,F. Meng,https://orcid.org/0000-0002-1356-445X,1401,Shanghai Institute of Technical Physics, China
 https://openalex.org/A5051764626,Meng Fang,https://orcid.org/0000-0001-6745-286X,1002,Tsinghua University, China
 https://openalex.org/A5048288156,Li Fan,https://orcid.org/0000-0003-1376-2779,558,Wenzhou Municipal Sci-Tech Bureau, China
 https://openalex.org/A5038617111,Li Fan,https://orcid.org/0000-0003-1340-9051,546,First People's Hospital of Jingzhou, China
 https://openalex.org/A5020034543,Lei Fan,https://orcid.org/0000-0002-4733-672X,445,Hunan Normal University, China
-https://openalex.org/A5065149012,Li Fan,https://orcid.org/0000-0002-8018-4174,382,Ningxia University, China
-https://openalex.org/A5042441618,Fan Li,https://orcid.org/0000-0001-8499-6340,377,Nanchang University, China
+https://openalex.org/A5065149012,Li Fan,https://orcid.org/0000-0002-8018-4174,382,Zhejiang University of Science and Technology, China
+https://openalex.org/A5042441618,Fan Li,https://orcid.org/0000-0001-8499-6340,377,Nanjing Tech University, China
 https://openalex.org/A5046276657,Yuchen Cao,https://orcid.org/0000-0002-1526-1444,133,First Affiliated Hospital Zhejiang University, China
-https://openalex.org/A5045012711,Yuchen Cao,https://orcid.org/0000-0002-7495-3694,54,Energy Research Institute, China
+https://openalex.org/A5045012711,Yuchen Cao,https://orcid.org/0000-0002-7495-3694,54,Plastic Surgery Hospital, China
 https://openalex.org/A5000293495,Yuchen Cao,None,22,Qufu Normal University, China
 https://openalex.org/A5075177436,Yuchen Cao,https://orcid.org/0000-0002-1626-5500,20,Qorvo (United States), USA
 https://openalex.org/A5021927565,Yuchen Cao,https://orcid.org/0000-0003-2879-2073,20,Beijing Institute of Technology, China
@@ -3569,16 +3427,16 @@ https://openalex.org/A5057760017,Huma Rasheed,None,2,Riphah International Univer
 https://openalex.org/A5020397413,Huma Rasheed,https://orcid.org/0000-0002-4004-1013,1,University of Delaware, USA
 https://openalex.org/A5053806434,Casey Randazzo,https://orcid.org/0000-0001-8833-7588,2,Rutgers, The State University of New Jersey, USA
 https://openalex.org/A5068083728,Akeela Careem,https://orcid.org/0000-0001-7412-7248,6,Rutgers, The State University of New Jersey, USA
-https://openalex.org/A5028858881,Li Liao,https://orcid.org/0000-0002-8548-1928,500,Sichuan University, China
+https://openalex.org/A5028858881,Li Liao,https://orcid.org/0000-0002-8548-1928,500,Shanghai Lixin University of Accounting and Finance, China
 https://openalex.org/A5058931270,Jiali Liao,https://orcid.org/0000-0003-4130-1822,210,Guizhou Electromechanical Research and Design Institute, China
 https://openalex.org/A5031723354,Li Liao,https://orcid.org/0000-0003-0030-1009,162,Southwest Petroleum University, China
 https://openalex.org/A5081165986,Lizi Liao,https://orcid.org/0000-0002-9973-3305,160,Singapore Management University, Singapore
 https://openalex.org/A5006955338,Haili Liao,None,157,Southwest Jiaotong University, China
 https://openalex.org/A5002695961,Calvin C.Y. Liao,https://orcid.org/0000-0002-4868-0936,157,Sichuan University, China
-https://openalex.org/A5056944727,Wei-Hao Liao,https://orcid.org/0009-0006-3270-4856,155,National Taiwan University Hospital, Taiwan, Province of China
-https://openalex.org/A5042897236,Wei Liao,https://orcid.org/0000-0002-8828-011X,129,Zhengzhou University, China
+https://openalex.org/A5056944727,Wei-Hao Liao,https://orcid.org/0009-0006-3270-4856,155,West China Hospital of Sichuan University, China
+https://openalex.org/A5065232422,Chia-Shu Liao,None,142,National Sun Yat-sen University, Taiwan, Province of China
+https://openalex.org/A5042897236,Wei Liao,https://orcid.org/0000-0002-8828-011X,129,Wuxi People's Hospital, China
 https://openalex.org/A5031980676,Xian Liao,https://orcid.org/0000-0003-2796-5729,117,Nanchang University, China
-https://openalex.org/A5025548835,Wei‐Li Liao,None,116,STCube (United States), USA
 https://openalex.org/A5042955432,Wenna Chen,None,108,First Affiliated Hospital of Henan University of Science and Technology, China
 https://openalex.org/A5070681644,Wenna Chen,https://orcid.org/0000-0002-3870-9889,8,Liaoning University of Traditional Chinese Medicine, China
 https://openalex.org/A5005957713,Wenna Cheng,None,8,Huazhong University of Science and Technology, China
@@ -3705,10 +3563,10 @@ https://openalex.org/A5044205949,Kiyoshi Izumi,https://orcid.org/0000-0003-0870-
 https://openalex.org/A5012699633,Kiyoshi Izumino,None,27,Tohoku Medical and Pharmaceutical University, Japan
 https://openalex.org/A5077513889,Veronika Batzdorfer,https://orcid.org/0000-0002-2678-2579,10,GESIS - Leibniz-Institute for the Social Sciences, Germany
 https://openalex.org/A5057337604,Veronika Batzdorfer,None,2,Folkwang University of the Arts, Germany
-https://openalex.org/A5081061938,Holger Steinmetz,https://orcid.org/0000-0001-5052-4214,81,University of Trier, Germany
+https://openalex.org/A5081061938,Holger Steinmetz,https://orcid.org/0000-0001-5052-4214,81,Universität Trier, Germany
 https://openalex.org/A5070184268,Priscila Alvarez Cueva,None,1,None
-https://openalex.org/A5019690020,Carlos Fernández–del Castillo,https://orcid.org/0000-0001-5975-7225,728,Massachusetts General Hospital, USA
-https://openalex.org/A5068525348,Carlos Castillo‐Chavez,None,381,Arizona State University, USA
+https://openalex.org/A5019690020,Carlos Fernández‐del Castillo,https://orcid.org/0000-0001-5975-7225,728,Massachusetts General Hospital, USA
+https://openalex.org/A5068525348,Carlos Castillo-Chávez,None,381,Arizona State University, USA
 https://openalex.org/A5084282503,Carlos Castillo,https://orcid.org/0000-0003-4544-0416,299,University of Córdoba, Spain
 https://openalex.org/A5031568508,Juan Carlos Castillo,https://orcid.org/0000-0002-8631-4291,232,Instituto Bernabeu, Spain
 https://openalex.org/A5034772596,Daniel Castillo,https://orcid.org/0000-0002-4159-6475,216,Universidad de Valladolid, Spain
@@ -3746,7 +3604,7 @@ https://openalex.org/A5085999316,Qiankun Zhong,None,3,Anhui University, China
 https://openalex.org/A5061289058,Kenjiro Inoue,None,72,University of Tsukuba, Japan
 https://openalex.org/A5047692725,Kenjiro Inoue,None,2,Nissan (United Kingdom), UK
 https://openalex.org/A5003915578,M Rossitto,None,39,University of Messina, Italy
-https://openalex.org/A5071506210,Michelangelo Rossi,https://orcid.org/0000-0003-1796-9128,17,Télécom Paris, France
+https://openalex.org/A5071506210,Michelangelo Rossi,https://orcid.org/0000-0003-1796-9128,17,Institut Polytechnique de Paris, France
 https://openalex.org/A5025239001,Michelangelo Rossi,None,5,None
 https://openalex.org/A5041222108,Michelangelo Rossi,None,4,None
 https://openalex.org/A5053354770,Tommaso Bondi,https://orcid.org/0000-0003-4572-0709,7,Cornell University, USA
@@ -3755,7 +3613,7 @@ https://openalex.org/A5020790791,Samar Haider,None,6,Tehran University of Medica
 https://openalex.org/A5068508539,Chris Callison-Burch,https://orcid.org/0000-0001-8196-1943,329,California University of Pennsylvania, USA
 https://openalex.org/A5062844781,Lin Ai,https://orcid.org/0000-0002-8688-7778,421,Beijing Tian Tan Hospital, China
 https://openalex.org/A5085918701,Aoxiang Lin,https://orcid.org/0000-0002-8420-2085,320,Beijing University of Chemical Technology, China
-https://openalex.org/A5011404596,Aijun Lin,https://orcid.org/0000-0001-5786-4537,255,Zhangzhou Normal University, China
+https://openalex.org/A5011404596,Aijun Lin,https://orcid.org/0000-0001-5786-4537,255,China Pharmaceutical University, China
 https://openalex.org/A5080457868,Lin Ai,https://orcid.org/0000-0001-7502-7935,182,Shanghai Municipal Center For Disease Control Prevention, China
 https://openalex.org/A5070659566,Ai Jeng Lin,https://orcid.org/0000-0001-9721-1493,157,Beijing Normal University, China
 https://openalex.org/A5065956651,Liying Guo,https://orcid.org/0000-0001-5959-3566,150,Shenyang University of Technology, China
@@ -3763,7 +3621,7 @@ https://openalex.org/A5004713358,Li Ai,https://orcid.org/0000-0001-8891-0313,139
 https://openalex.org/A5001598957,Aiming Lin,None,136,Kyoto University, Japan
 https://openalex.org/A5078428128,Ang Lin,https://orcid.org/0000-0001-5662-1576,116,China Pharmaceutical University, China
 https://openalex.org/A5000626725,Aifen Lin,https://orcid.org/0000-0001-6566-8368,107,Zhejiang Taizhou Hospital, China
-https://openalex.org/A5068209077,Yu‐Wen Chen,https://orcid.org/0000-0003-1804-4653,877,Renji Hospital, China
+https://openalex.org/A5068209077,Yu‐Wen Chen,https://orcid.org/0000-0003-1804-4653,877,West China Hospital of Sichuan University, China
 https://openalex.org/A5038177250,Yu Wen Chen,None,180,National Central University, Taiwan, Province of China
 https://openalex.org/A5062639956,Yu‐Wen Cheng,https://orcid.org/0000-0001-8936-027X,121,Kaohsiung Veterans General Hospital, Taiwan, Province of China
 https://openalex.org/A5055372908,Yu Wen Cheng,https://orcid.org/0000-0003-3714-0464,108,Taipei Medical University, Taiwan, Province of China
@@ -3814,85 +3672,3 @@ https://openalex.org/A5020850814,Osamu Sakuragi,None,4,Kyushu University, Japan
 https://openalex.org/A5088515587,Osamu Sakuraba,None,3,None
 https://openalex.org/A5029983052,Osamu Sakura,None,2,The University of Tokyo, Japan
 https://openalex.org/A5060658332,OSAMU SAKURAI,None,1,None
-https://openalex.org/A5051642685,Cornelius Puschmann,https://orcid.org/0000-0002-3189-0662,90,University of Bremen, Germany
-https://openalex.org/A5056302404,Cornelius Puschmann,None,3,None
-https://openalex.org/A5067413275,Cornelius Puschmann,None,2,None
-https://openalex.org/A5030588092,Katrin Weller,https://orcid.org/0000-0003-3799-1146,107,GESIS - Leibniz-Institute for the Social Sciences, Germany
-https://openalex.org/A5092431478,Katrin Weller,None,1,None
-https://openalex.org/A5080459630,Ann-Katrin Weller,None,1,None
-https://openalex.org/A5040811731,Amy Dunphy,None,1,None
-https://openalex.org/A5092923656,Amy Dunphy,None,1,None
-https://openalex.org/A5092977113,Amy Dunphy,https://orcid.org/0009-0008-1424-3077,1,Queensland University of Technology, Australia
-https://openalex.org/A5030406488,Shelby Grossman,https://orcid.org/0000-0003-4941-7969,52,Stanford University, USA
-https://openalex.org/A5034011295,Shotaro Ishihara,None,7,Kagoshima University, Japan
-https://openalex.org/A5058174724,Shotaro Ishihara,None,3,None
-https://openalex.org/A5072977482,Shotaro Ishihara,None,2,None
-https://openalex.org/A5057998133,Shotaro Ishihara,None,1,None
-https://openalex.org/A5037035890,Shotaro Ishihara,None,1,None
-https://openalex.org/A5081892303,Hiroki Takahashi,https://orcid.org/0000-0002-8419-0141,1902,Ibaraki University, Japan
-https://openalex.org/A5088321906,Hironobu Takahashi,None,120,National Institute of Advanced Industrial Science and Technology, Japan
-https://openalex.org/A5049154276,H. Takahashi,https://orcid.org/0000-0001-6465-2049,75,Kyoto University, Japan
-https://openalex.org/A5037801344,Hiromu Takahashi,None,12,Takenaka (Japan), Japan
-https://openalex.org/A5091155574,HIROMU TAKAHASHI,None,1,Shionogi (Japan), Japan
-https://openalex.org/A5080856017,Hono Shirai,None,3,None
-https://openalex.org/A5064064659,R. V. Kyrychenko,None,7,Kharkiv Petro Vasylenko National Technical University of Agriculture, Ukraine
-https://openalex.org/A5007612664,Roman Kyrychenko,https://orcid.org/0000-0002-1610-4352,4,University of Helsinki, Finland
-https://openalex.org/A5087685141,Darko Stojilović,https://orcid.org/0000-0002-1131-3761,12,University of Belgrade, Serbia
-https://openalex.org/A5050862524,Hal Ashton,https://orcid.org/0000-0002-1780-9127,20,University of Cambridge, UK
-https://openalex.org/A5090962780,Bertram F. Malle,https://orcid.org/0000-0003-0845-9601,210,Providence College, USA
-https://openalex.org/A5028332010,J. B. Mallett,None,13,Umkhuseli Innovation and Research Management, South Africa
-https://openalex.org/A5006457979,Vanessa Cheung,None,15,Chinese University of Hong Kong, China
-https://openalex.org/A5023445969,Vanessa Cheung,None,4,Massachusetts Institute of Technology, USA
-https://openalex.org/A5050576697,D. J. Rossouw,None,76,Barnet Hospital, UK
-https://openalex.org/A5023093674,Pieter Rossouw,None,70,MultiMedia InnoVations (South Africa), South Africa
-https://openalex.org/A5087901105,J. Rossouw van der Merwe,https://orcid.org/0000-0002-8441-5515,56,Fraunhofer Institute for Integrated Circuits, Germany
-https://openalex.org/A5056611541,J.P. Rossouw,https://orcid.org/0000-0002-4636-4366,44,North-West University, South Africa
-https://openalex.org/A5025102473,Johannes Roßkopf,https://orcid.org/0000-0002-9037-5660,29,University Hospital Ulm, Germany
-https://openalex.org/A5060872758,Gregor Rossmanith,None,27,German Aerospace Center, Germany
-https://openalex.org/A5052422901,Johannes Roßnagel,None,11,Johannes Gutenberg University Mainz, Germany
-https://openalex.org/A5044995756,Johannes Rosskopp,https://orcid.org/0000-0002-4478-5642,8,University of Basel, Switzerland
-https://openalex.org/A5081577955,Johannes Rossmann,https://orcid.org/0000-0002-4222-7452,6,Renewable Energy Systems (United Kingdom), UK
-https://openalex.org/A5068239066,Johannes Rossouw,None,4,Mental Health Ireland, Ireland
-https://openalex.org/A5034405667,Vera Rocha,https://orcid.org/0000-0003-0227-7129,103,Copenhagen Business School, Denmark
-https://openalex.org/A5087146527,Vera Maria da Rocha,https://orcid.org/0000-0001-7729-7840,53,Universidade Federal do Rio Grande do Sul, Brazil
-https://openalex.org/A5025219114,Vera Rocha-Perugini,https://orcid.org/0000-0002-1761-9884,21,GlaxoSmithKline (Belgium), Belgium
-https://openalex.org/A5001343638,Vera Rocha Reis Lellis,None,8,Centro Universitário Adventista de São Paulo, Brazil
-https://openalex.org/A5073023799,Vera Lúcia Rocha,None,7,Universidade Estadual Paulista (Unesp), Brazil
-https://openalex.org/A5022013052,VERA ROCHA REIS LELLIS,None,3,None
-https://openalex.org/A5090814869,V. H. Bazan Da Rocha,None,2,None
-https://openalex.org/A5065234066,Vera Rocha Perugini,None,1,None
-https://openalex.org/A5088173303,Ronald Armando Vera Rocha,None,1,Leiden University, Netherlands
-https://openalex.org/A5025508278,Tom Grady,None,31,Forum for the Future, UK
-https://openalex.org/A5014815808,Tom Graddis,None,11,None
-https://openalex.org/A5007154322,Tom Grad,https://orcid.org/0000-0003-0528-173X,10,Copenhagen Business School, Denmark
-https://openalex.org/A5023682284,Tom Grady,None,7,Birkbeck, University of London, UK
-https://openalex.org/A5002992473,T. Gradishar,None,4,Motorola (United States), USA
-https://openalex.org/A5005238630,Tom Gradziel,None,3,University of California, Davis, USA
-https://openalex.org/A5088972829,Assemblyman Tom Grady,None,2,None
-https://openalex.org/A5010368288,Tom Gradnauer,None,1,None
-https://openalex.org/A5052710947,Jörg Claussen,https://orcid.org/0000-0001-8432-8860,95,Copenhagen Business School, Denmark
-https://openalex.org/A5035210768,Lynn Smith‐Lovin,https://orcid.org/0000-0002-8211-4719,113,Duke University, USA
-https://openalex.org/A5050009911,Lynn Smith-Lovin Olga Tsoudis,None,1,None
-https://openalex.org/A5010352723,Alexandros Gelastopoulos,None,13,University College South Denmark, Denmark
-https://openalex.org/A5080193434,Pantelis P. Analytis,https://orcid.org/0000-0003-0778-3813,45,University of Southern Denmark, Denmark
-https://openalex.org/A5019800917,Mahnaz Roshanaei,None,15,University of Illinois at Chicago, USA
-https://openalex.org/A5041539279,Mahnaz Roshanaei,https://orcid.org/0000-0001-7094-614X,3,None
-https://openalex.org/A5036935284,Sumer S. Vaid,https://orcid.org/0000-0002-6320-5498,18,Stanford University, USA
-https://openalex.org/A5047315859,Jamil Zaki,https://orcid.org/0000-0002-0664-2982,175,Stanford University, USA
-https://openalex.org/A5089062680,Jamil Zakirov,None,5,Skolkovo Institute of Science and Technology, Russian Federation
-https://openalex.org/A5032381602,Gabriella M. Harari,https://orcid.org/0000-0001-9258-9075,78,Stanford University, USA
-https://openalex.org/A5022975415,Anice George,https://orcid.org/0000-0003-2409-696X,151,Manipal Academy of Higher Education, India
-https://openalex.org/A5056216760,Anna George,https://orcid.org/0000-0001-9401-0944,149,Johns Hopkins University, USA
-https://openalex.org/A5080835244,Jaya A. George,https://orcid.org/0000-0001-8769-3505,96,University of the Witwatersrand, South Africa
-https://openalex.org/A5048761480,Anu Anna George,https://orcid.org/0000-0002-6769-732X,77,Amrita Institute of Medical Sciences and Research Centre, India
-https://openalex.org/A5000342442,A.S.Hovan George,None,31,Tbilisi State Medical University, Georgia
-https://openalex.org/A5069227854,Anna L. George,None,24,Baylor School, USA
-https://openalex.org/A5046383873,Shilpa George,https://orcid.org/0000-0002-6756-9627,14,Carnegie Mellon University, USA
-https://openalex.org/A5028362312,Anna George de Mille,None,11,None
-https://openalex.org/A5028255729,Anna Meek,None,10,None
-https://openalex.org/A5029459997,Indu Anna George,https://orcid.org/0000-0003-1676-5342,10,University of Mumbai, India
-https://openalex.org/A5004427266,Ana Valdivia,https://orcid.org/0000-0001-8214-8380,22,University of Oxford, UK
-https://openalex.org/A5069848512,Ana Y. Valdivia,None,12,Montefiore Medical Center, USA
-https://openalex.org/A5010088850,Ana Valdivia García,None,6,None
-https://openalex.org/A5004607033,Ana C. Valdivia,None,6,University of Ottawa, Canada
-https://openalex.org/A5073167345,Mercedes Ana Valdivia Leon,None,1,None
