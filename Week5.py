@@ -55,7 +55,18 @@ plt.legend()
 
 # Show the plot
 plt.grid(True)
-plt.show() 
+plt.show()
+
+# Compute the cumulative median of X
+cumulative_median = np.zeros(N)
+for i in range(1, N + 1):
+    cumulative_median[i - 1] = np.median(X[:i])
+
+plt.figure(figsize=(10, 6))
+plt.plot(np.arange(1, N + 1), cumulative_median, label='Cumulative Median', color='blue')
+plt.axhline(y=median, color='red', linestyle='--', label='Distribution Median')
+
+plt.show()
 
 '''
 # Compute mean and median of the distribution
