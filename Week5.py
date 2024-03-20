@@ -60,8 +60,7 @@ plt.xlabel('Sample Size')
 plt.ylabel('Cumulative Average')
 plt.title('Cumulative Average with Error Bars and Distribution Mean')
 plt.legend()
-
-# Show the plot
+plt.xscale("log")
 plt.grid(True)
 plt.show()
 
@@ -117,6 +116,8 @@ for i in range(len(pareto_samples)):
     cumulative_avg_sum += pareto_samples[i]
     cumulative_averages[i] = cumulative_avg_sum / (i + 1)
 
+
+######################################################################################
 # 11)
 # Load the CSV file into a DataFrame
 df = pd.read_csv('papers.csv')
@@ -165,3 +166,11 @@ for i, value in enumerate(random_sample, start=1):
 # Display the cumulative standard error array
 print(cumulative_std_error)
 
+# Part 2:
+#What's the problem with random networks as a model for real-world networks according to the argument in section 3.5 (near the end)?
+
+
+#List the four regimes that characterize random networks as a function of ⟨k⟩.
+
+#According to the book, why is it a problem for random networks
+#(in terms of being a model for real-world networks that the degree-dependent clustering C(k) decreases as a function of k in real-world networks?
