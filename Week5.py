@@ -214,5 +214,20 @@ print(probability)
 k = probability*(amount_of_edges-1.0)
 print(k)
 
-RG = nx.gnp_random_graph(amount_of_edges, probability, seed=1000, directed=False)
-nx.draw(RG)
+#RG = nx.gnp_random_graph(amount_of_edges, probability, seed=1000, directed=False)
+
+
+
+def generate_random_network(node_count, p):
+    G = nx.Graph()
+    
+    G.add_nodes_from(range(node_count))
+    for i in range(node_count):
+        for j in range(i + 1, node_count):  
+            if np.random.uniform(0, 1) < p:
+                G.add_edge(i, j)
+    
+    return G
+
+random_network = generate_random_network(amount_of_nodes,probability)
+nx.draw(random_network)
