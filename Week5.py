@@ -79,23 +79,6 @@ plt.axhline(y=median, color='red', linestyle='--', label='Distribution Median')
 
 plt.show()
 
-'''
-# Compute mean and median of the distribution
-distribution_mean = np.mean(X)
-distribution_median = np.median(X)
-
-# Plot the cumulative average and add error bars
-plt.figure(figsize=(10, 6))
-plt.errorbar(np.arange(1, N + 1), cumulative_avg, yerr=cumulative_std_err, fmt='-o', 
-            color='green', ecolor='red', capsize=5, label='Cumulative Average with Error Bars')
-plt.axhline(y=distribution_mean, color='black', linestyle='--', label='Distribution Mean')
-plt.title('Cumulative Average with Error Bars and Distribution Mean')
-plt.xlabel('Sample Size')
-plt.ylabel('Cumulative Average')
-plt.legend()
-plt.grid(True)
-plt.show()
-'''
 # 9)
 xm = 1
 alpha = 0.5
