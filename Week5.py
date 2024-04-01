@@ -179,7 +179,7 @@ print(cumulative_std_error)
 # Part 3:
 import csv
 import networkx as nx
-import netwulf as nw
+# import netwulf as nw
 import numpy as np
 edges = []
 amount_of_edges = 0
